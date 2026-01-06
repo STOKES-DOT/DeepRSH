@@ -3,7 +3,6 @@ from scipy.optimize import minimize
 from energy_get import EnergyGetter
 import jax.numpy as jnp
 import jax
-jax.config.update('jax_platform_name', 'cpu') 
 class OPTXC:
     def __init__(self, mol2):
         self.mol2 = mol2
@@ -70,7 +69,7 @@ class OPTXC:
         return params
     
 if __name__ == '__main__':
-    mol2 = '/Users/jiaoyuan/Documents/GitHub/ADOPTXC/module/net.mol2'
+    mol2 = '/home/yjiao/DeepRSH/module/net.mol2'
     optxc = OPTXC(mol2)
     
     initial_params = (
