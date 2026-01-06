@@ -12,7 +12,7 @@ from grad_dft import (
 )
 
 
-def lsda_x_e(rho: Float[Array, "grid spin"], clip_cte) -> Float[Array, "grid"]:
+def lsda_x_e(rho: Float[Array, "grid spin"], clip_cte: float) -> Float[Array, "grid"]:
     rho = jnp.clip(rho, a_min=clip_cte)
     lda_es = (
         -3.0

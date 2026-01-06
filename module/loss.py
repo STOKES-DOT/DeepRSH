@@ -1,10 +1,8 @@
 from typing import Callable, Tuple, Dict, Union
-from functools import partial
 from jaxtyping import PyTree, Array, Scalar
 
 import jax.numpy as jnp
-from jax import value_and_grad, scipy as jsp
-from jax.tree_util import tree_map
+from jax import scipy as jsp
 
 from grad_dft import Molecule
 
@@ -67,7 +65,6 @@ def janak_loss(
 
     return J_N**2 + J_Np1**2
 
-@partial(value_and_grad, has_aux=True)
 def total_loss(
     params: PyTree,
     compute_energy: Callable,
