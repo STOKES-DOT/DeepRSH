@@ -109,7 +109,7 @@ def train():
             ground_truth_energy=neutral.energy,
             janak_weight=JANAK_WEIGHT,
         )
-        ((cost, metrics), grads) = loss_fn(params, neutral, cation, anion)
+        (cost, metrics), grads = loss_fn(params, neutral, cation, anion)
         updates, new_opt_state = tx.update(grads, opt_state, params)
         new_params = apply_updates(params, updates)
         return new_params, new_opt_state, cost, metrics
@@ -153,7 +153,7 @@ def train():
                     ground_truth_energy=neutral.energy,
                     janak_weight=JANAK_WEIGHT,
                 )
-                ((eval_cost, eval_metrics), _) = eval_loss(params, neutral, cation, anion)
+                (eval_cost, eval_metrics), _ = eval_loss(params, neutral, cation, anion)
                 test_losses.append(eval_cost)
             print(f"  >>> Validation Loss: {jnp.mean(test_losses):.5f}")
 
