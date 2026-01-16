@@ -1,0 +1,3292 @@
+nohup: 忽略输入
+/home/yjiao/GradDFT-main/grad_dft/molecule.py:341: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/molecule.py:385: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/molecule.py:411: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/molecule.py:442: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/molecule.py:476: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/molecule.py:504: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/molecule.py:543: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/molecule.py:615: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/molecule.py:694: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/molecule.py:735: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/molecule.py:760: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/molecule.py:785: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/molecule.py:813: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/molecule.py:848: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/solid.py:269: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/solid.py:299: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/solid.py:330: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/solid.py:364: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/solid.py:410: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/solid.py:436: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/solid.py:488: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/solid.py:520: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/solid.py:557: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/solid.py:597: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/solid.py:631: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+2026-01-06 16:44:00.158158: E tensorflow/compiler/xla/stream_executor/cuda/cuda_dnn.cc:9342] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2026-01-06 16:44:00.158267: E tensorflow/compiler/xla/stream_executor/cuda/cuda_fft.cc:609] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2026-01-06 16:44:00.158314: E tensorflow/compiler/xla/stream_executor/cuda/cuda_blas.cc:1518] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2026-01-06 16:44:01.616518: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Jax plugin configuration error: Exception when calling jax_plugins.xla_cuda12.initialize()
+Traceback (most recent call last):
+  File "/home/yjiao/opt/miniconda3/envs/grad_dft/lib/python3.11/site-packages/jax/_src/xla_bridge.py", line 607, in discover_pjrt_plugins
+    plugin_module.initialize()
+  File "/home/yjiao/opt/miniconda3/envs/grad_dft/lib/python3.11/site-packages/jax_plugins/xla_cuda12/__init__.py", line 328, in initialize
+    _check_cuda_versions(raise_on_first_error=True)
+  File "/home/yjiao/opt/miniconda3/envs/grad_dft/lib/python3.11/site-packages/jax_plugins/xla_cuda12/__init__.py", line 150, in _check_cuda_versions
+    assert cuda_versions is not None
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+An NVIDIA GPU may be present on this machine, but a CUDA-enabled jaxlib is not installed. Falling back to cpu.
+/home/yjiao/GradDFT-main/grad_dft/functional.py:677: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/GradDFT-main/grad_dft/functional.py:719: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+/home/yjiao/opt/miniconda3/envs/grad_dft/lib/python3.11/site-packages/tensorflow_hub/__init__.py:61: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import parse_version
+WARNING:tensorflow:From /home/yjiao/opt/miniconda3/envs/grad_dft/lib/python3.11/site-packages/tensorflow/python/compat/v2_compat.py:108: disable_resource_variables (from tensorflow.python.ops.variable_scope) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+/home/yjiao/GradDFT-main/grad_dft/popular_functionals.py:328: UserWarning: As of jaxtyping version 0.2.24, jaxtyping now prefers the syntax
+```
+from jaxtyping import jaxtyped
+# Use your favourite typechecker: usually one of the two lines below.
+from typeguard import typechecked as typechecker
+from beartype import beartype as typechecker
+
+@jaxtyped(typechecker=typechecker)
+def foo(...):
+```
+and the old double-decorator syntax
+```
+@jaxtyped
+@typechecker
+def foo(...):
+```
+should no longer be used. (It will continue to work as it did before, but the new approach will produce more readable error messages.)
+In particular note that `typechecker` must be passed via keyword argument; the following is not valid:
+```
+@jaxtyped(typechecker)
+def foo(...):
+```
+
+  @jaxtyped
+Processing H2 Curve:   0%|          | 0/992 [00:00<?, ?it/s]Failed to process row 0 (R=r_Ang): could not convert string to float: 'r_Ang'
+SCF not converged.
+SCF energy = 2.80417517161321
+/home/yjiao/opt/miniconda3/envs/grad_dft/lib/python3.11/site-packages/jax/_src/numpy/lax_numpy.py:5191: FutureWarning: None encountered in jnp.array(); this is currently treated as NaN. In the future this will result in an error.
+  return array(a, dtype=dtype, copy=bool(copy), order=order, device=device)
+SCF not converged.
+SCF energy = 2.80417517161555 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = 2.80417517161555 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   0%|          | 2/992 [00:25<3:32:22, 12.87s/it]SCF not converged.
+SCF energy = 2.33322157466091
+SCF not converged.
+SCF energy = 2.33322157466327 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = 2.33322157466328 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   0%|          | 3/992 [00:50<4:54:12, 17.85s/it]SCF not converged.
+SCF energy = 1.94306030054226
+SCF not converged.
+SCF energy = 1.9430603005447 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = 1.9430603005447 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   0%|          | 4/992 [01:13<5:26:12, 19.81s/it]SCF not converged.
+SCF energy = 1.61513842816701
+SCF not converged.
+SCF energy = 1.61513842816954 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = 1.61513842816954 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   1%|          | 5/992 [01:36<5:43:51, 20.90s/it]SCF not converged.
+SCF energy = 1.336194036388
+SCF not converged.
+SCF energy = 1.33619403639064 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = 1.33619403639064 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   1%|          | 6/992 [01:58<5:51:19, 21.38s/it]SCF not converged.
+SCF energy = 1.09649384276449
+SCF not converged.
+SCF energy = 1.0964938427671 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = 1.0964938427671 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   1%|          | 7/992 [02:22<6:04:42, 22.22s/it]SCF not converged.
+SCF energy = 0.888730939821134
+SCF not converged.
+SCF energy = 0.888730939823715 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = 0.888730939823716 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   1%|          | 8/992 [02:47<6:16:36, 22.96s/it]SCF not converged.
+SCF energy = 0.707311195458741
+SCF not converged.
+SCF energy = 0.707311195461467 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = 0.707311195461467 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   1%|          | 9/992 [03:11<6:19:05, 23.14s/it]SCF not converged.
+SCF energy = 0.547877810178046
+SCF not converged.
+SCF energy = 0.54787781018071 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = 0.54787781018071 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   1%|          | 10/992 [03:32<6:10:37, 22.65s/it]SCF not converged.
+SCF energy = 0.406985889497092
+SCF not converged.
+SCF energy = 0.406985889499901 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = 0.406985889499901 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   1%|          | 11/992 [03:55<6:14:00, 22.88s/it]SCF not converged.
+SCF energy = 0.281874422940714
+SCF not converged.
+SCF energy = 0.28187442294353 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = 0.28187442294353 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   1%|          | 12/992 [04:19<6:14:43, 22.94s/it]SCF not converged.
+SCF energy = 0.170303549511319
+SCF not converged.
+SCF energy = 0.170303549514265 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = 0.170303549514265 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   1%|▏         | 13/992 [04:43<6:23:17, 23.49s/it]SCF not converged.
+SCF energy = 0.0704363401129178
+SCF not converged.
+SCF energy = 0.0704363401158901 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = 0.0704363401158901 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   1%|▏         | 14/992 [05:08<6:26:38, 23.72s/it]SCF not converged.
+SCF energy = -0.0192486222206694
+SCF not converged.
+SCF energy = -0.0192486222180577 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.0192486222180577 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   2%|▏         | 15/992 [05:30<6:21:12, 23.41s/it]SCF not converged.
+SCF energy = -0.100022811482882
+SCF not converged.
+SCF energy = -0.100022811480327 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.100022811480328 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   2%|▏         | 16/992 [05:52<6:14:32, 23.03s/it]SCF not converged.
+SCF energy = -0.172957491837308
+SCF not converged.
+SCF energy = -0.172957491834768 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.172957491834768 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   2%|▏         | 17/992 [06:14<6:06:30, 22.55s/it]SCF not converged.
+SCF energy = -0.23896190538486
+SCF not converged.
+SCF energy = -0.238961905382324 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.238961905382324 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   2%|▏         | 18/992 [06:39<6:16:19, 23.18s/it]SCF not converged.
+SCF energy = -0.29881300199316
+SCF not converged.
+SCF energy = -0.298813001990385 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.298813001990385 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   2%|▏         | 19/992 [07:03<6:23:22, 23.64s/it]SCF not converged.
+SCF energy = -0.353178848448918
+SCF not converged.
+SCF energy = -0.353178848446291 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.353178848446291 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   2%|▏         | 20/992 [07:27<6:25:46, 23.81s/it]SCF not converged.
+SCF energy = -0.402637195322618
+SCF not converged.
+SCF energy = -0.402637195320002 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.402637195320002 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   2%|▏         | 21/992 [07:50<6:17:25, 23.32s/it]SCF not converged.
+SCF energy = -0.447690306445491
+SCF not converged.
+SCF energy = -0.447690306442688 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.447690306442688 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   2%|▏         | 22/992 [08:13<6:15:33, 23.23s/it]SCF not converged.
+SCF energy = -0.488776918271075
+SCF not converged.
+SCF energy = -0.488776918268601 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.488776918268601 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   2%|▏         | 23/992 [08:35<6:11:45, 23.02s/it]SCF not converged.
+SCF energy = -0.526281993375742
+SCF not converged.
+SCF energy = -0.526281993373472 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.526281993373472 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   2%|▏         | 24/992 [09:00<6:18:19, 23.45s/it]SCF not converged.
+SCF energy = -0.560544739761133
+SCF not converged.
+SCF energy = -0.560544739758731 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.560544739758731 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   3%|▎         | 25/992 [09:26<6:30:23, 24.22s/it]SCF not converged.
+SCF energy = -0.59186522935084
+SCF not converged.
+SCF energy = -0.591865229348482 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.591865229348482 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   3%|▎         | 26/992 [09:49<6:25:24, 23.94s/it]SCF not converged.
+SCF energy = -0.620509878184166
+SCF not converged.
+SCF energy = -0.620509878181653 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.620509878181653 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   3%|▎         | 27/992 [10:13<6:25:23, 23.96s/it]SCF not converged.
+SCF energy = -0.64671601108327
+SCF not converged.
+SCF energy = -0.646716011080684 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.646716011080684 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   3%|▎         | 28/992 [10:33<6:08:04, 22.91s/it]SCF not converged.
+SCF energy = -0.670695698618366
+SCF not converged.
+SCF energy = -0.670695698615952 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.670695698615952 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   3%|▎         | 29/992 [10:57<6:12:03, 23.18s/it]SCF not converged.
+SCF energy = -0.692639009983871
+SCF not converged.
+SCF energy = -0.692639009981327 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.692639009981327 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   3%|▎         | 30/992 [11:22<6:20:48, 23.75s/it]SCF not converged.
+SCF energy = -0.712716780584562
+SCF not converged.
+SCF energy = -0.712716780582138 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.712716780582138 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   3%|▎         | 31/992 [11:47<6:24:32, 24.01s/it]SCF not converged.
+SCF energy = -0.731082968269747
+SCF not converged.
+SCF energy = -0.731082968267303 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.731082968267303 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   3%|▎         | 32/992 [12:11<6:22:46, 23.92s/it]SCF not converged.
+SCF energy = -0.747876663845045
+SCF not converged.
+SCF energy = -0.747876663842929 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747876663842929 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   3%|▎         | 33/992 [12:31<6:04:19, 22.79s/it]SCF not converged.
+SCF energy = -0.763223816461332
+SCF not converged.
+SCF energy = -0.763223816459119 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.763223816459119 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   3%|▎         | 34/992 [12:53<6:00:51, 22.60s/it]SCF not converged.
+SCF energy = -0.777238726740255
+SCF not converged.
+SCF energy = -0.777238726737923 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.777238726737923 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   4%|▎         | 35/992 [13:16<6:04:49, 22.87s/it]SCF not converged.
+SCF energy = -0.790025348213336
+SCF not converged.
+SCF energy = -0.790025348210855 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.790025348210855 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   4%|▎         | 36/992 [13:41<6:13:51, 23.46s/it]SCF not converged.
+SCF energy = -0.801678424642466
+SCF not converged.
+SCF energy = -0.80167842464014 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.80167842464014 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   4%|▎         | 37/992 [14:06<6:21:08, 23.95s/it]SCF not converged.
+SCF energy = -0.812284483281986
+SCF not converged.
+SCF energy = -0.812284483279992 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.812284483279992 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   4%|▍         | 38/992 [14:31<6:25:23, 24.24s/it]SCF not converged.
+SCF energy = -0.821922701865819
+SCF not converged.
+SCF energy = -0.821922701863735 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.821922701863735 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   4%|▍         | 39/992 [14:54<6:15:56, 23.67s/it]SCF not converged.
+SCF energy = -0.830665666494673
+SCF not converged.
+SCF energy = -0.830665666492484 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.830665666492484 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   4%|▍         | 40/992 [15:16<6:07:45, 23.18s/it]SCF not converged.
+SCF energy = -0.83858003675046
+SCF not converged.
+SCF energy = -0.838580036748311 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.838580036748311 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   4%|▍         | 41/992 [15:39<6:10:28, 23.37s/it]SCF not converged.
+SCF energy = -0.845727132186053
+SCF not converged.
+SCF energy = -0.845727132183773 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.845727132183773 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   4%|▍         | 42/992 [16:02<6:05:50, 23.11s/it]SCF not converged.
+SCF energy = -0.852163450829826
+SCF not converged.
+SCF energy = -0.852163450827533 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.852163450827533 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   4%|▍         | 43/992 [16:28<6:17:18, 23.86s/it]SCF not converged.
+SCF energy = -0.857941126906943
+SCF not converged.
+SCF energy = -0.857941126904711 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.857941126904712 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   4%|▍         | 44/992 [16:49<6:05:45, 23.15s/it]SCF not converged.
+SCF energy = -0.863108333808882
+SCF not converged.
+SCF energy = -0.863108333806879 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.863108333806879 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   5%|▍         | 45/992 [17:10<5:55:57, 22.55s/it]SCF not converged.
+SCF energy = -0.86770963838097
+SCF not converged.
+SCF energy = -0.867709638379036 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.867709638379036 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   5%|▍         | 46/992 [17:32<5:53:49, 22.44s/it]SCF not converged.
+SCF energy = -0.871786313465897
+SCF not converged.
+SCF energy = -0.87178631346407 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.87178631346407 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   5%|▍         | 47/992 [17:58<6:07:08, 23.31s/it]SCF not converged.
+SCF energy = -0.875376615802352
+SCF not converged.
+SCF energy = -0.875376615800417 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.875376615800417 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   5%|▍         | 48/992 [18:24<6:21:00, 24.22s/it]SCF not converged.
+SCF energy = -0.878516035537548
+SCF not converged.
+SCF energy = -0.878516035535631 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.878516035535631 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   5%|▍         | 49/992 [18:47<6:12:35, 23.71s/it]SCF not converged.
+SCF energy = -0.881237521836761
+SCF not converged.
+SCF energy = -0.881237521834763 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.881237521834763 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   5%|▌         | 50/992 [19:09<6:04:50, 23.24s/it]SCF not converged.
+SCF energy = -0.883571687111679
+SCF not converged.
+SCF energy = -0.883571687109579 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.883571687109579 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   5%|▌         | 51/992 [19:32<6:03:02, 23.15s/it]SCF not converged.
+SCF energy = -0.885546991498164
+SCF not converged.
+SCF energy = -0.885546991496144 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.885546991496144 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   5%|▌         | 52/992 [19:57<6:11:29, 23.71s/it]SCF not converged.
+SCF energy = -0.887189908905292
+SCF not converged.
+SCF energy = -0.887189908903174 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.887189908903174 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   5%|▌         | 53/992 [20:23<6:22:35, 24.45s/it]SCF not converged.
+SCF energy = -0.888525076932257
+SCF not converged.
+SCF energy = -0.888525076930366 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.888525076930366 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   5%|▌         | 54/992 [20:45<6:11:32, 23.77s/it]SCF not converged.
+SCF energy = -0.889575432928896
+SCF not converged.
+SCF energy = -0.889575432927066 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.889575432927066 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   6%|▌         | 55/992 [21:07<6:04:54, 23.37s/it]SCF not converged.
+SCF energy = -0.890362338693752
+SCF not converged.
+SCF energy = -0.890362338692012 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.890362338692012 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   6%|▌         | 56/992 [21:28<5:53:10, 22.64s/it]SCF not converged.
+SCF energy = -0.890905695705443
+SCF not converged.
+SCF energy = -0.890905695703631 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.890905695703631 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   6%|▌         | 57/992 [21:53<6:01:56, 23.23s/it]SCF not converged.
+SCF energy = -0.891224052015012
+SCF not converged.
+SCF energy = -0.891224052013285 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.891224052013285 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   6%|▌         | 58/992 [22:17<6:07:19, 23.60s/it]SCF not converged.
+SCF energy = -0.891334701075117
+SCF not converged.
+SCF energy = -0.891334701073331 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.891334701073331 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   6%|▌         | 59/992 [22:40<6:01:40, 23.26s/it]SCF not converged.
+SCF energy = -0.891253773070877
+SCF not converged.
+SCF energy = -0.891253773069006 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.891253773069006 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   6%|▌         | 60/992 [23:02<5:53:37, 22.77s/it]SCF not converged.
+SCF energy = -0.890996317387131
+SCF not converged.
+SCF energy = -0.890996317385153 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.890996317385153 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   6%|▌         | 61/992 [23:24<5:51:23, 22.65s/it]SCF not converged.
+SCF energy = -0.890576378400506
+SCF not converged.
+SCF energy = -0.890576378398555 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.890576378398555 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   6%|▋         | 62/992 [23:42<5:29:28, 21.26s/it]SCF not converged.
+SCF energy = -0.890007063931727
+SCF not converged.
+SCF energy = -0.890007063929695 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.890007063929695 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   6%|▋         | 63/992 [23:59<5:11:12, 20.10s/it]SCF not converged.
+SCF energy = -0.889300607939654
+SCF not converged.
+SCF energy = -0.889300607937883 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.889300607937883 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   6%|▋         | 64/992 [24:17<5:01:43, 19.51s/it]SCF not converged.
+SCF energy = -0.888468428489616
+SCF not converged.
+SCF energy = -0.888468428487951 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.888468428487951 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   7%|▋         | 65/992 [24:37<4:59:21, 19.38s/it]SCF not converged.
+SCF energy = -0.887521181998978
+SCF not converged.
+SCF energy = -0.887521181997225 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.887521181997225 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   7%|▋         | 66/992 [24:54<4:50:39, 18.83s/it]SCF not converged.
+SCF energy = -0.886468814482346
+SCF not converged.
+SCF energy = -0.886468814480554 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.886468814480554 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   7%|▋         | 67/992 [25:14<4:54:31, 19.10s/it]SCF not converged.
+SCF energy = -0.885320610080193
+SCF not converged.
+SCF energy = -0.885320610078708 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.885320610078708 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   7%|▋         | 68/992 [25:38<5:15:39, 20.50s/it]SCF not converged.
+SCF energy = -0.88408523678435
+SCF not converged.
+SCF energy = -0.884085236782773 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.884085236782773 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   7%|▋         | 69/992 [26:00<5:25:20, 21.15s/it]SCF not converged.
+SCF energy = -0.882770789069254
+SCF not converged.
+SCF energy = -0.882770789067792 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.882770789067792 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   7%|▋         | 70/992 [26:21<5:22:42, 21.00s/it]SCF not converged.
+SCF energy = -0.881384827170237
+SCF not converged.
+SCF energy = -0.881384827168736 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.881384827168735 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   7%|▋         | 71/992 [26:42<5:21:17, 20.93s/it]SCF not converged.
+SCF energy = -0.879934412773408
+SCF not converged.
+SCF energy = -0.879934412771862 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.879934412771862 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   7%|▋         | 72/992 [27:05<5:33:01, 21.72s/it]SCF not converged.
+SCF energy = -0.878426142126348
+SCF not converged.
+SCF energy = -0.878426142124749 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.878426142124749 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   7%|▋         | 73/992 [27:31<5:52:38, 23.02s/it]SCF not converged.
+SCF energy = -0.876866174655078
+SCF not converged.
+SCF energy = -0.876866174653404 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.876866174653404 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   7%|▋         | 74/992 [27:53<5:48:20, 22.77s/it]SCF not converged.
+SCF energy = -0.875260260363057
+SCF not converged.
+SCF energy = -0.875260260361325 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.875260260361326 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   8%|▊         | 75/992 [28:14<5:37:50, 22.10s/it]SCF not converged.
+SCF energy = -0.873613764328801
+SCF not converged.
+SCF energy = -0.873613764327338 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.873613764327338 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   8%|▊         | 76/992 [28:35<5:32:46, 21.80s/it]SCF not converged.
+SCF energy = -0.871931689721975
+SCF not converged.
+SCF energy = -0.871931689720421 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.871931689720421 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   8%|▊         | 77/992 [28:59<5:42:02, 22.43s/it]SCF not converged.
+SCF energy = -0.870218699701627
+SCF not converged.
+SCF energy = -0.870218699700207 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.870218699700207 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   8%|▊         | 78/992 [29:24<5:54:38, 23.28s/it]SCF not converged.
+SCF energy = -0.868479138558031
+SCF not converged.
+SCF energy = -0.868479138556574 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.868479138556574 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   8%|▊         | 79/992 [29:49<6:01:07, 23.73s/it]SCF not converged.
+SCF energy = -0.866717052213121
+SCF not converged.
+SCF energy = -0.866717052211624 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.866717052211624 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   8%|▊         | 80/992 [30:06<5:27:41, 21.56s/it]SCF not converged.
+SCF energy = -0.864936207997122
+SCF not converged.
+SCF energy = -0.864936207995578 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.864936207995578 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   8%|▊         | 81/992 [30:23<5:07:56, 20.28s/it]SCF not converged.
+SCF energy = -0.863140113490572
+SCF not converged.
+SCF energy = -0.863140113488974 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.863140113488975 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   8%|▊         | 82/992 [30:43<5:08:45, 20.36s/it]SCF not converged.
+SCF energy = -0.861332034194147
+SCF not converged.
+SCF energy = -0.861332034192669 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.861332034192669 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   8%|▊         | 83/992 [31:08<5:29:45, 21.77s/it]SCF not converged.
+SCF energy = -0.859515009821128
+SCF not converged.
+SCF energy = -0.859515009819605 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.859515009819605 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   8%|▊         | 84/992 [31:34<5:47:48, 22.98s/it]SCF not converged.
+SCF energy = -0.857691869072513
+SCF not converged.
+SCF energy = -0.857691869070906 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.857691869070907 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   9%|▊         | 85/992 [32:00<5:58:47, 23.74s/it]SCF not converged.
+SCF energy = -0.855865242847476
+SCF not converged.
+SCF energy = -0.85586524284597 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.85586524284597 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   9%|▊         | 86/992 [32:22<5:52:42, 23.36s/it]SCF not converged.
+SCF energy = -0.854037575948945
+SCF not converged.
+SCF energy = -0.854037575947395 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.854037575947395 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   9%|▉         | 87/992 [32:39<5:23:50, 21.47s/it]SCF not converged.
+SCF energy = -0.852211137470346
+SCF not converged.
+SCF energy = -0.852211137468748 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.852211137468748 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   9%|▉         | 88/992 [32:55<4:57:04, 19.72s/it]SCF not converged.
+SCF energy = -0.850388030154142
+SCF not converged.
+SCF energy = -0.850388030152694 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.850388030152694 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   9%|▉         | 89/992 [33:10<4:37:35, 18.44s/it]SCF not converged.
+SCF energy = -0.848570199063884
+SCF not converged.
+SCF energy = -0.848570199062753 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.848570199062753 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   9%|▉         | 90/992 [33:27<4:27:14, 17.78s/it]SCF not converged.
+SCF energy = -0.846759439905464
+SCF not converged.
+SCF energy = -0.846759439904306 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.846759439904306 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   9%|▉         | 91/992 [33:45<4:30:28, 18.01s/it]SCF not converged.
+SCF energy = -0.844957407263801
+SCF not converged.
+SCF energy = -0.844957407262606 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.844957407262606 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   9%|▉         | 92/992 [34:04<4:33:23, 18.23s/it]SCF not converged.
+SCF energy = -0.843165622919266
+SCF not converged.
+SCF energy = -0.843165622918029 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.843165622918029 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   9%|▉         | 93/992 [34:23<4:38:11, 18.57s/it]SCF not converged.
+SCF energy = -0.841385484260429
+SCF not converged.
+SCF energy = -0.841385484259133 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.841385484259132 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:   9%|▉         | 94/992 [34:45<4:50:41, 19.42s/it]SCF not converged.
+SCF energy = -0.839618272670752
+SCF not converged.
+SCF energy = -0.839618272669574 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.839618272669574 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  10%|▉         | 95/992 [35:07<5:01:07, 20.14s/it]SCF not converged.
+SCF energy = -0.83786516165437
+SCF not converged.
+SCF energy = -0.837865161653171 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.837865161653171 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  10%|▉         | 96/992 [35:31<5:19:25, 21.39s/it]SCF not converged.
+SCF energy = -0.836127224421029
+SCF not converged.
+SCF energy = -0.836127224419807 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.836127224419807 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  10%|▉         | 97/992 [35:56<5:34:37, 22.43s/it]SCF not converged.
+SCF energy = -0.834405440705448
+SCF not converged.
+SCF energy = -0.834405440704199 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.834405440704199 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  10%|▉         | 98/992 [36:20<5:42:50, 23.01s/it]SCF not converged.
+SCF energy = -0.832700702720312
+SCF not converged.
+SCF energy = -0.832700702719033 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.832700702719033 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  10%|▉         | 99/992 [36:42<5:38:35, 22.75s/it]SCF not converged.
+SCF energy = -0.831013820304251
+SCF not converged.
+SCF energy = -0.831013820302937 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.831013820302937 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  10%|█         | 100/992 [37:04<5:35:50, 22.59s/it]SCF not converged.
+SCF energy = -0.829345525440315
+SCF not converged.
+SCF energy = -0.82934552543896 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.82934552543896 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  10%|█         | 101/992 [37:28<5:40:55, 22.96s/it]SCF not converged.
+SCF energy = -0.827696476365388
+SCF not converged.
+SCF energy = -0.827696476363982 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.827696476363982 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  10%|█         | 102/992 [37:52<5:45:26, 23.29s/it]SCF not converged.
+SCF energy = -0.826067261482972
+SCF not converged.
+SCF energy = -0.826067261481488 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.826067261481488 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  10%|█         | 103/992 [38:16<5:45:27, 23.32s/it]SCF not converged.
+SCF energy = -0.824458403266423
+SCF not converged.
+SCF energy = -0.824458403264882 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.824458403264882 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  10%|█         | 104/992 [38:35<5:28:23, 22.19s/it]SCF not converged.
+SCF energy = -0.822870362312767
+SCF not converged.
+SCF energy = -0.82287036231134 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.82287036231134 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  11%|█         | 105/992 [38:58<5:30:44, 22.37s/it]SCF not converged.
+SCF energy = -0.821303541641778
+SCF not converged.
+SCF energy = -0.821303541640313 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.821303541640313 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  11%|█         | 106/992 [39:21<5:31:55, 22.48s/it]SCF not converged.
+SCF energy = -0.819758291197864
+SCF not converged.
+SCF energy = -0.819758291196733 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.819758291196733 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  11%|█         | 107/992 [39:46<5:43:57, 23.32s/it]SCF not converged.
+SCF energy = -0.818234912348659
+SCF not converged.
+SCF energy = -0.818234912347507 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.818234912347507 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  11%|█         | 108/992 [40:08<5:38:19, 22.96s/it]SCF not converged.
+SCF energy = -0.816733662041382
+SCF not converged.
+SCF energy = -0.816733662040207 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.816733662040207 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  11%|█         | 109/992 [40:29<5:29:13, 22.37s/it]SCF not converged.
+SCF energy = -0.815254756301231
+SCF not converged.
+SCF energy = -0.815254756300029 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.815254756300029 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  11%|█         | 110/992 [40:50<5:23:57, 22.04s/it]SCF not converged.
+SCF energy = -0.813798372878799
+SCF not converged.
+SCF energy = -0.813798372877565 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.813798372877565 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  11%|█         | 111/992 [41:12<5:20:39, 21.84s/it]SCF not converged.
+SCF energy = -0.812364653042533
+SCF not converged.
+SCF energy = -0.81236465304126 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.81236465304126 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  11%|█▏        | 112/992 [41:35<5:28:00, 22.36s/it]SCF not converged.
+SCF energy = -0.810953702641487
+SCF not converged.
+SCF energy = -0.810953702640167 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.810953702640167 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  11%|█▏        | 113/992 [42:01<5:44:13, 23.50s/it]SCF not converged.
+SCF energy = -0.809565592616255
+SCF not converged.
+SCF energy = -0.809565592614866 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.809565592614866 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  11%|█▏        | 114/992 [42:24<5:39:22, 23.19s/it]SCF not converged.
+SCF energy = -0.808200359169436
+SCF not converged.
+SCF energy = -0.808200359167983 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.808200359167983 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  12%|█▏        | 115/992 [42:44<5:24:03, 22.17s/it]SCF not converged.
+SCF energy = -0.806858003893193
+SCF not converged.
+SCF energy = -0.806858003891881 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.806858003891881 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  12%|█▏        | 116/992 [43:05<5:21:31, 22.02s/it]SCF not converged.
+SCF energy = -0.80553849426166
+SCF not converged.
+SCF energy = -0.805538494260312 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.805538494260312 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  12%|█▏        | 117/992 [43:30<5:33:51, 22.89s/it]SCF not converged.
+SCF energy = -0.804241764918681
+SCF not converged.
+SCF energy = -0.804241764917293 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.804241764917293 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  12%|█▏        | 118/992 [43:56<5:44:33, 23.65s/it]SCF not converged.
+SCF energy = -0.802967720090118
+SCF not converged.
+SCF energy = -0.802967720088683 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.802967720088683 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  12%|█▏        | 119/992 [44:19<5:43:13, 23.59s/it]SCF not converged.
+SCF energy = -0.801716237272049
+SCF not converged.
+SCF energy = -0.80171623727056 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.80171623727056 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  12%|█▏        | 120/992 [44:40<5:30:52, 22.77s/it]SCF not converged.
+SCF energy = -0.80048717218319
+SCF not converged.
+SCF energy = -0.800487172181633 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.800487172181633 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  12%|█▏        | 121/992 [45:02<5:25:17, 22.41s/it]SCF not converged.
+SCF energy = -0.799280364739852
+SCF not converged.
+SCF energy = -0.799280364738605 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.799280364738605 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  12%|█▏        | 122/992 [45:24<5:23:46, 22.33s/it]SCF not converged.
+SCF energy = -0.798095645443405
+SCF not converged.
+SCF energy = -0.798095645442134 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.798095645442134 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  12%|█▏        | 123/992 [45:49<5:34:10, 23.07s/it]SCF not converged.
+SCF energy = -0.796932841162237
+SCF not converged.
+SCF energy = -0.796932841160938 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.796932841160938 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  12%|█▎        | 124/992 [46:13<5:38:39, 23.41s/it]SCF not converged.
+SCF energy = -0.795791779151863
+SCF not converged.
+SCF energy = -0.795791779150533 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.795791779150533 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  13%|█▎        | 125/992 [46:35<5:33:13, 23.06s/it]SCF not converged.
+SCF energy = -0.79467228843154
+SCF not converged.
+SCF energy = -0.79467228843017 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.79467228843017 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  13%|█▎        | 126/992 [46:56<5:23:21, 22.40s/it]SCF not converged.
+SCF energy = -0.793574198302664
+SCF not converged.
+SCF energy = -0.793574198301635 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.793574198301636 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  13%|█▎        | 127/992 [47:20<5:28:10, 22.76s/it]SCF not converged.
+SCF energy = -0.792497334570988
+SCF not converged.
+SCF energy = -0.792497334569945 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.792497334569944 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  13%|█▎        | 128/992 [47:43<5:32:55, 23.12s/it]SCF not converged.
+SCF energy = -0.791441514617474
+SCF not converged.
+SCF energy = -0.791441514616364 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.791441514616364 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  13%|█▎        | 129/992 [48:07<5:32:48, 23.14s/it]SCF not converged.
+SCF energy = -0.790406542637191
+SCF not converged.
+SCF energy = -0.790406542636056 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.790406542636056 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  13%|█▎        | 130/992 [48:28<5:26:25, 22.72s/it]SCF not converged.
+SCF energy = -0.789392205987807
+SCF not converged.
+SCF energy = -0.789392205986643 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.789392205986643 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  13%|█▎        | 131/992 [48:50<5:20:18, 22.32s/it]SCF not converged.
+SCF energy = -0.788398272895901
+SCF not converged.
+SCF energy = -0.788398272894701 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.788398272894701 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  13%|█▎        | 132/992 [49:15<5:30:32, 23.06s/it]SCF not converged.
+SCF energy = -0.787424491249412
+SCF not converged.
+SCF energy = -0.787424491248171 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.787424491248171 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  13%|█▎        | 133/992 [49:42<5:48:44, 24.36s/it]SCF not converged.
+SCF energy = -0.786470588315352
+SCF not converged.
+SCF energy = -0.786470588314234 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.786470588314235 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  14%|█▎        | 134/992 [50:06<5:47:22, 24.29s/it]SCF not converged.
+SCF energy = -0.785536271711246
+SCF not converged.
+SCF energy = -0.785536271710112 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.785536271710112 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  14%|█▎        | 135/992 [50:27<5:33:15, 23.33s/it]SCF not converged.
+SCF energy = -0.784621232026848
+SCF not converged.
+SCF energy = -0.784621232025696 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.784621232025696 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  14%|█▎        | 136/992 [50:49<5:24:50, 22.77s/it]SCF not converged.
+SCF energy = -0.783725146959818
+SCF not converged.
+SCF energy = -0.783725146958647 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.783725146958647 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  14%|█▍        | 137/992 [51:11<5:21:27, 22.56s/it]SCF not converged.
+SCF energy = -0.782847686424151
+SCF not converged.
+SCF energy = -0.782847686422958 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.782847686422959 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  14%|█▍        | 138/992 [51:34<5:23:33, 22.73s/it]SCF not converged.
+SCF energy = -0.781988518258041
+SCF not converged.
+SCF energy = -0.781988518256821 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.781988518256821 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  14%|█▍        | 139/992 [52:00<5:36:25, 23.66s/it]SCF not converged.
+SCF energy = -0.781147314343558
+SCF not converged.
+SCF energy = -0.781147314342275 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.781147314342275 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  14%|█▍        | 140/992 [52:23<5:36:21, 23.69s/it]SCF not converged.
+SCF energy = -0.780323756602578
+SCF not converged.
+SCF energy = -0.780323756601309 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.780323756601309 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  14%|█▍        | 141/992 [52:46<5:29:05, 23.20s/it]SCF not converged.
+SCF energy = -0.779517541915301
+SCF not converged.
+SCF energy = -0.779517541913999 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.779517541913999 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  14%|█▍        | 142/992 [53:10<5:33:23, 23.53s/it]SCF not converged.
+SCF energy = -0.778728385070738
+SCF not converged.
+SCF energy = -0.7787283850694 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.7787283850694 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  14%|█▍        | 143/992 [53:33<5:32:40, 23.51s/it]SCF not converged.
+SCF energy = -0.777956019370791
+SCF not converged.
+SCF energy = -0.777956019369413 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.777956019369413 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  15%|█▍        | 144/992 [53:58<5:37:53, 23.91s/it]SCF not converged.
+SCF energy = -0.777200194981438
+SCF not converged.
+SCF energy = -0.777200194980014 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.777200194980014 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  15%|█▍        | 145/992 [54:22<5:35:25, 23.76s/it]SCF not converged.
+SCF energy = -0.776460675303314
+SCF not converged.
+SCF energy = -0.776460675301836 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.776460675301836 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  15%|█▍        | 146/992 [54:42<5:23:04, 22.91s/it]SCF not converged.
+SCF energy = -0.775737231663968
+SCF not converged.
+SCF energy = -0.775737231662429 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.775737231662429 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  15%|█▍        | 147/992 [55:05<5:21:52, 22.86s/it]SCF not converged.
+SCF energy = -0.775029636822988
+SCF not converged.
+SCF energy = -0.775029636821585 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.775029636821585 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  15%|█▍        | 148/992 [55:31<5:34:49, 23.80s/it]SCF not converged.
+SCF energy = -0.774337658252619
+SCF not converged.
+SCF energy = -0.774337658251182 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.774337658251182 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  15%|█▌        | 149/992 [55:57<5:44:54, 24.55s/it]SCF not converged.
+SCF energy = -0.773661052615353
+SCF not converged.
+SCF energy = -0.77366105261388 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.77366105261388 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  15%|█▌        | 150/992 [56:21<5:38:47, 24.14s/it]SCF not converged.
+SCF energy = -0.772999562696425
+SCF not converged.
+SCF energy = -0.772999562694913 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.772999562694913 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  15%|█▌        | 151/992 [56:43<5:31:50, 23.67s/it]SCF not converged.
+SCF energy = -0.772352916938307
+SCF not converged.
+SCF energy = -0.772352916936753 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.772352916936753 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  15%|█▌        | 152/992 [57:05<5:23:54, 23.14s/it]SCF not converged.
+SCF energy = -0.771720830577559
+SCF not converged.
+SCF energy = -0.771720830576546 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.771720830576546 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  15%|█▌        | 153/992 [57:27<5:17:23, 22.70s/it]SCF not converged.
+SCF energy = -0.771103007613266
+SCF not converged.
+SCF energy = -0.771103007612272 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.771103007612272 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  16%|█▌        | 154/992 [57:53<5:30:04, 23.63s/it]SCF not converged.
+SCF energy = -0.770499143963289
+SCF not converged.
+SCF energy = -0.770499143962244 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.770499143962244 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  16%|█▌        | 155/992 [58:19<5:40:22, 24.40s/it]SCF not converged.
+SCF energy = -0.769908932004123
+SCF not converged.
+SCF energy = -0.769908932003062 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.769908932003062 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  16%|█▌        | 156/992 [58:44<5:43:01, 24.62s/it]SCF not converged.
+SCF energy = -0.769332065231962
+SCF not converged.
+SCF energy = -0.769332065230881 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.769332065230881 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  16%|█▌        | 157/992 [59:06<5:32:41, 23.91s/it]SCF not converged.
+SCF energy = -0.768768241738436
+SCF not converged.
+SCF energy = -0.768768241737333 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.768768241737333 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  16%|█▌        | 158/992 [59:28<5:21:44, 23.15s/it]SCF not converged.
+SCF energy = -0.768217166751894
+SCF not converged.
+SCF energy = -0.768217166750764 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.768217166750765 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  16%|█▌        | 159/992 [59:49<5:14:59, 22.69s/it]SCF not converged.
+SCF energy = -0.767678555022587
+SCF not converged.
+SCF energy = -0.767678555021426 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.767678555021426 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  16%|█▌        | 160/992 [1:00:11<5:09:57, 22.35s/it]SCF not converged.
+SCF energy = -0.767152132985961
+SCF not converged.
+SCF energy = -0.767152132984763 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.767152132984763 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  16%|█▌        | 161/992 [1:00:34<5:11:58, 22.53s/it]SCF not converged.
+SCF energy = -0.766637639904456
+SCF not converged.
+SCF energy = -0.766637639903401 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.766637639903401 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  16%|█▋        | 162/992 [1:00:59<5:24:11, 23.44s/it]SCF not converged.
+SCF energy = -0.766134827760116
+SCF not converged.
+SCF energy = -0.766134827759049 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.766134827759049 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  16%|█▋        | 163/992 [1:01:25<5:34:18, 24.20s/it]SCF not converged.
+SCF energy = -0.765643460477392
+SCF not converged.
+SCF energy = -0.765643460476313 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.765643460476313 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  17%|█▋        | 164/992 [1:01:48<5:28:57, 23.84s/it]SCF not converged.
+SCF energy = -0.765163313292587
+SCF not converged.
+SCF energy = -0.765163313291494 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.765163313291494 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  17%|█▋        | 165/992 [1:02:12<5:27:52, 23.79s/it]SCF not converged.
+SCF energy = -0.764694172628067
+SCF not converged.
+SCF energy = -0.76469417262696 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.76469417262696 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  17%|█▋        | 166/992 [1:02:35<5:24:47, 23.59s/it]SCF not converged.
+SCF energy = -0.764235836137316
+SCF not converged.
+SCF energy = -0.764235836136192 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.764235836136192 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  17%|█▋        | 167/992 [1:02:58<5:21:02, 23.35s/it]SCF not converged.
+SCF energy = -0.763788112080853
+SCF not converged.
+SCF energy = -0.763788112079713 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.763788112079713 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  17%|█▋        | 168/992 [1:03:24<5:31:57, 24.17s/it]SCF not converged.
+SCF energy = -0.763350817114691
+SCF not converged.
+SCF energy = -0.763350817113542 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.763350817113542 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  17%|█▋        | 169/992 [1:03:49<5:37:05, 24.57s/it]SCF not converged.
+SCF energy = -0.762923772020466
+SCF not converged.
+SCF energy = -0.762923772019285 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.762923772019285 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  17%|█▋        | 170/992 [1:04:14<5:36:38, 24.57s/it]SCF not converged.
+SCF energy = -0.762506795898558
+SCF not converged.
+SCF energy = -0.762506795897353 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.762506795897353 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  17%|█▋        | 171/992 [1:04:37<5:31:48, 24.25s/it]SCF not converged.
+SCF energy = -0.762099700606236
+SCF not converged.
+SCF energy = -0.762099700605005 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.762099700605005 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  17%|█▋        | 172/992 [1:04:59<5:21:22, 23.51s/it]SCF not converged.
+SCF energy = -0.761702287769359
+SCF not converged.
+SCF energy = -0.761702287768099 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.761702287768099 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  17%|█▋        | 173/992 [1:05:21<5:15:07, 23.09s/it]SCF not converged.
+SCF energy = -0.761314349355547
+SCF not converged.
+SCF energy = -0.761314349354255 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.761314349354254 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  18%|█▊        | 174/992 [1:05:44<5:13:17, 22.98s/it]SCF not converged.
+SCF energy = -0.760935670368545
+SCF not converged.
+SCF energy = -0.760935670367216 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.760935670367216 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  18%|█▊        | 175/992 [1:06:09<5:19:16, 23.45s/it]SCF not converged.
+SCF energy = -0.760566031834401
+SCF not converged.
+SCF energy = -0.76056603183303 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.76056603183303 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  18%|█▊        | 176/992 [1:06:34<5:26:58, 24.04s/it]SCF not converged.
+SCF energy = -0.760205214263367
+SCF not converged.
+SCF energy = -0.760205214261948 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.760205214261948 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  18%|█▊        | 177/992 [1:06:58<5:25:36, 23.97s/it]SCF not converged.
+SCF energy = -0.75985300188569
+SCF not converged.
+SCF energy = -0.759853001884399 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.759853001884399 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  18%|█▊        | 178/992 [1:07:20<5:16:29, 23.33s/it]SCF not converged.
+SCF energy = -0.759509185702645
+SCF not converged.
+SCF energy = -0.75950918570133 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.75950918570133 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  18%|█▊        | 179/992 [1:07:42<5:12:30, 23.06s/it]SCF not converged.
+SCF energy = -0.759173563766523
+SCF not converged.
+SCF energy = -0.759173563765181 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.759173563765181 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  18%|█▊        | 180/992 [1:08:05<5:11:35, 23.02s/it]SCF not converged.
+SCF energy = -0.758845940499426
+SCF not converged.
+SCF energy = -0.758845940498252 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.758845940498252 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  18%|█▊        | 181/992 [1:08:27<5:07:25, 22.74s/it]SCF not converged.
+SCF energy = -0.75852612647283
+SCF not converged.
+SCF energy = -0.758526126471637 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.758526126471637 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  18%|█▊        | 182/992 [1:08:49<5:03:18, 22.47s/it]SCF not converged.
+SCF energy = -0.758213939183919
+SCF not converged.
+SCF energy = -0.758213939182706 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.758213939182706 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  18%|█▊        | 183/992 [1:09:11<5:03:07, 22.48s/it]SCF not converged.
+SCF energy = -0.757909203010241
+SCF not converged.
+SCF energy = -0.757909203009006 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.757909203009006 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  19%|█▊        | 184/992 [1:09:37<5:13:16, 23.26s/it]SCF not converged.
+SCF energy = -0.757611748029921
+SCF not converged.
+SCF energy = -0.757611748028664 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.757611748028664 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  19%|█▊        | 185/992 [1:10:03<5:27:32, 24.35s/it]SCF not converged.
+SCF energy = -0.75732140835246
+SCF not converged.
+SCF energy = -0.757321408351188 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.757321408351188 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  19%|█▉        | 186/992 [1:10:26<5:20:04, 23.83s/it]SCF not converged.
+SCF energy = -0.757038020974372
+SCF not converged.
+SCF energy = -0.75703802097306 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.75703802097306 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  19%|█▉        | 187/992 [1:10:49<5:14:57, 23.48s/it]SCF not converged.
+SCF energy = -0.756761425793206
+SCF not converged.
+SCF energy = -0.756761425791864 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.756761425791864 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  19%|█▉        | 188/992 [1:11:11<5:08:59, 23.06s/it]SCF not converged.
+SCF energy = -0.756491466827104
+SCF not converged.
+SCF energy = -0.756491466826123 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.756491466826123 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  19%|█▉        | 189/992 [1:11:32<5:01:57, 22.56s/it]SCF not converged.
+SCF energy = -0.75622799421802
+SCF not converged.
+SCF energy = -0.756227994217028 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.756227994217028 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  19%|█▉        | 190/992 [1:11:55<5:04:18, 22.77s/it]SCF not converged.
+SCF energy = -0.75597086631479
+SCF not converged.
+SCF energy = -0.755970866313784 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.755970866313784 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  19%|█▉        | 191/992 [1:12:22<5:17:09, 23.76s/it]SCF not converged.
+SCF energy = -0.755719951037429
+SCF not converged.
+SCF energy = -0.755719951036407 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.755719951036407 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  19%|█▉        | 192/992 [1:12:45<5:16:02, 23.70s/it]SCF not converged.
+SCF energy = -0.755475125723076
+SCF not converged.
+SCF energy = -0.755475125722035 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.755475125722035 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  19%|█▉        | 193/992 [1:13:07<5:09:24, 23.23s/it]SCF not converged.
+SCF energy = -0.755236274822692
+SCF not converged.
+SCF energy = -0.755236274821629 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.755236274821629 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  20%|█▉        | 194/992 [1:13:29<5:02:41, 22.76s/it]SCF not converged.
+SCF energy = -0.755003285353906
+SCF not converged.
+SCF energy = -0.755003285352817 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.755003285352817 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  20%|█▉        | 195/992 [1:13:51<4:58:45, 22.49s/it]SCF not converged.
+SCF energy = -0.754776041259769
+SCF not converged.
+SCF energy = -0.754776041258831 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.754776041258831 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  20%|█▉        | 196/992 [1:14:13<4:57:32, 22.43s/it]SCF not converged.
+SCF energy = -0.754554419359171
+SCF not converged.
+SCF energy = -0.75455441935823 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.75455441935823 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  20%|█▉        | 197/992 [1:14:37<5:04:16, 22.96s/it]SCF not converged.
+SCF energy = -0.75433828939347
+SCF not converged.
+SCF energy = -0.754338289392525 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.754338289392525 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  20%|█▉        | 198/992 [1:15:00<5:02:15, 22.84s/it]SCF not converged.
+SCF energy = -0.754127517394023
+SCF not converged.
+SCF energy = -0.754127517393074 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.754127517393074 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  20%|██        | 199/992 [1:15:24<5:05:55, 23.15s/it]SCF not converged.
+SCF energy = -0.753921968882186
+SCF not converged.
+SCF energy = -0.753921968881233 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.753921968881233 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  20%|██        | 200/992 [1:15:47<5:04:34, 23.07s/it]SCF not converged.
+SCF energy = -0.753721511012939
+SCF not converged.
+SCF energy = -0.753721511011981 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.753721511011981 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  20%|██        | 201/992 [1:16:11<5:09:40, 23.49s/it]SCF not converged.
+SCF energy = -0.753526015584388
+SCF not converged.
+SCF energy = -0.753526015583425 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.753526015583425 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  20%|██        | 202/992 [1:16:35<5:10:43, 23.60s/it]SCF not converged.
+SCF energy = -0.753335361532917
+SCF not converged.
+SCF energy = -0.753335361531949 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.753335361531949 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  20%|██        | 203/992 [1:16:59<5:13:22, 23.83s/it]SCF not converged.
+SCF energy = -0.753149433737527
+SCF not converged.
+SCF energy = -0.753149433736555 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.753149433736555 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  21%|██        | 204/992 [1:17:26<5:23:00, 24.60s/it]SCF not converged.
+SCF energy = -0.752968119769841
+SCF not converged.
+SCF energy = -0.752968119768881 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.752968119768881 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  21%|██        | 205/992 [1:17:52<5:30:25, 25.19s/it]SCF not converged.
+SCF energy = -0.752791308639027
+SCF not converged.
+SCF energy = -0.752791308638037 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.752791308638037 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  21%|██        | 206/992 [1:18:16<5:23:13, 24.67s/it]SCF not converged.
+SCF energy = -0.752618892022862
+SCF not converged.
+SCF energy = -0.752618892021864 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.752618892021864 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  21%|██        | 207/992 [1:18:39<5:18:38, 24.35s/it]SCF not converged.
+SCF energy = -0.752450765576383
+SCF not converged.
+SCF energy = -0.752450765575374 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.752450765575374 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  21%|██        | 208/992 [1:19:01<5:09:12, 23.66s/it]SCF not converged.
+SCF energy = -0.752286828637637
+SCF not converged.
+SCF energy = -0.752286828636617 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.752286828636617 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  21%|██        | 209/992 [1:19:22<4:56:50, 22.75s/it]SCF not converged.
+SCF energy = -0.752126983092994
+SCF not converged.
+SCF energy = -0.752126983091961 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.752126983091961 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  21%|██        | 210/992 [1:19:46<5:01:44, 23.15s/it]SCF not converged.
+SCF energy = -0.751971131274324
+SCF not converged.
+SCF energy = -0.751971131273275 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.751971131273275 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  21%|██▏       | 211/992 [1:20:11<5:08:36, 23.71s/it]SCF not converged.
+SCF energy = -0.751819175277074
+SCF not converged.
+SCF energy = -0.751819175276008 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.751819175276008 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  21%|██▏       | 212/992 [1:20:36<5:12:05, 24.01s/it]SCF not converged.
+SCF energy = -0.751671016819508
+SCF not converged.
+SCF energy = -0.751671016818422 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.751671016818422 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  21%|██▏       | 213/992 [1:20:58<5:05:32, 23.53s/it]SCF not converged.
+SCF energy = -0.751526558049779
+SCF not converged.
+SCF energy = -0.751526558048671 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.751526558048671 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  22%|██▏       | 214/992 [1:21:20<4:58:20, 23.01s/it]SCF not converged.
+SCF energy = -0.751385702995173
+SCF not converged.
+SCF energy = -0.751385702994039 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.751385702994039 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  22%|██▏       | 215/992 [1:21:42<4:54:49, 22.77s/it]SCF not converged.
+SCF energy = -0.751248359366868
+SCF not converged.
+SCF energy = -0.751248359365704 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.751248359365704 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  22%|██▏       | 216/992 [1:22:04<4:52:04, 22.58s/it]SCF not converged.
+SCF energy = -0.751114440413113
+SCF not converged.
+SCF energy = -0.751114440412112 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.751114440412112 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  22%|██▏       | 217/992 [1:22:28<4:54:17, 22.78s/it]SCF not converged.
+SCF energy = -0.750983866505198
+SCF not converged.
+SCF energy = -0.750983866504191 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.750983866504191 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  22%|██▏       | 218/992 [1:22:53<5:02:43, 23.47s/it]SCF not converged.
+SCF energy = -0.750856566107747
+SCF not converged.
+SCF energy = -0.750856566106733 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.750856566106733 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  22%|██▏       | 219/992 [1:23:18<5:08:48, 23.97s/it]SCF not converged.
+SCF energy = -0.750732475674327
+SCF not converged.
+SCF energy = -0.750732475673304 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.750732475673305 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  22%|██▏       | 220/992 [1:23:42<5:10:25, 24.13s/it]SCF not converged.
+SCF energy = -0.75061153777415
+SCF not converged.
+SCF energy = -0.75061153777312 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.75061153777312 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  22%|██▏       | 221/992 [1:24:07<5:10:35, 24.17s/it]SCF not converged.
+SCF energy = -0.750493696773316
+SCF not converged.
+SCF energy = -0.750493696772277 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.750493696772277 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  22%|██▏       | 222/992 [1:24:29<5:04:52, 23.76s/it]SCF not converged.
+SCF energy = -0.750378892629578
+SCF not converged.
+SCF energy = -0.75037889262853 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.75037889262853 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  22%|██▏       | 223/992 [1:24:52<5:00:48, 23.47s/it]SCF not converged.
+SCF energy = -0.750267056181676
+SCF not converged.
+SCF energy = -0.750267056180618 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.750267056180618 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  23%|██▎       | 224/992 [1:25:16<5:00:01, 23.44s/it]SCF not converged.
+SCF energy = -0.750158110380336
+SCF not converged.
+SCF energy = -0.750158110379273 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.750158110379273 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  23%|██▎       | 225/992 [1:25:40<5:03:53, 23.77s/it]SCF not converged.
+SCF energy = -0.750051976278415
+SCF not converged.
+SCF energy = -0.750051976277371 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.750051976277371 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  23%|██▎       | 226/992 [1:26:06<5:10:38, 24.33s/it]SCF not converged.
+SCF energy = -0.749948576604671
+SCF not converged.
+SCF energy = -0.749948576603576 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.749948576603576 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  23%|██▎       | 227/992 [1:26:32<5:16:15, 24.80s/it]SCF not converged.
+SCF energy = -0.749847836386877
+SCF not converged.
+SCF energy = -0.749847836385767 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.749847836385767 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  23%|██▎       | 228/992 [1:26:53<5:04:37, 23.92s/it]SCF not converged.
+SCF energy = -0.749749686342874
+SCF not converged.
+SCF energy = -0.749749686341749 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.749749686341749 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  23%|██▎       | 229/992 [1:27:16<4:59:10, 23.53s/it]SCF not converged.
+SCF energy = -0.749654064763012
+SCF not converged.
+SCF energy = -0.74965406476187 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74965406476187 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  23%|██▎       | 230/992 [1:27:39<4:55:12, 23.24s/it]SCF not converged.
+SCF energy = -0.749560912006062
+SCF not converged.
+SCF energy = -0.749560912004902 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.749560912004902 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  23%|██▎       | 231/992 [1:28:00<4:49:23, 22.82s/it]SCF not converged.
+SCF energy = -0.749470164611204
+SCF not converged.
+SCF energy = -0.749470164610025 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.749470164610025 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  23%|██▎       | 232/992 [1:28:22<4:45:49, 22.57s/it]SCF not converged.
+SCF energy = -0.7493817560857
+SCF not converged.
+SCF energy = -0.749381756084498 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.749381756084498 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  23%|██▎       | 233/992 [1:28:45<4:43:44, 22.43s/it]SCF not converged.
+SCF energy = -0.749295621398674
+SCF not converged.
+SCF energy = -0.749295621397449 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.749295621397449 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  24%|██▎       | 234/992 [1:29:10<4:53:34, 23.24s/it]SCF not converged.
+SCF energy = -0.749211699855532
+SCF not converged.
+SCF energy = -0.74921169985428 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74921169985428 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  24%|██▎       | 235/992 [1:29:34<4:57:27, 23.58s/it]SCF not converged.
+SCF energy = -0.749129935034148
+SCF not converged.
+SCF energy = -0.749129935032867 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.749129935032867 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  24%|██▍       | 236/992 [1:29:59<5:03:20, 24.07s/it]SCF not converged.
+SCF energy = -0.749050273197391
+SCF not converged.
+SCF energy = -0.749050273196078 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.749050273196078 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  24%|██▍       | 237/992 [1:30:21<4:55:19, 23.47s/it]SCF not converged.
+SCF energy = -0.748972661661595
+SCF not converged.
+SCF energy = -0.748972661660246 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.748972661660246 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  24%|██▍       | 238/992 [1:30:44<4:50:29, 23.12s/it]SCF not converged.
+SCF energy = -0.748897047771467
+SCF not converged.
+SCF energy = -0.748897047770072 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.748897047770072 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  24%|██▍       | 239/992 [1:31:06<4:45:55, 22.78s/it]SCF not converged.
+SCF energy = -0.748823378538031
+SCF not converged.
+SCF energy = -0.748823378536773 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.748823378536772 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  24%|██▍       | 240/992 [1:31:28<4:42:59, 22.58s/it]SCF not converged.
+SCF energy = -0.748751600788116
+SCF not converged.
+SCF energy = -0.748751600786838 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.748751600786838 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  24%|██▍       | 241/992 [1:31:48<4:34:26, 21.93s/it]SCF not converged.
+SCF energy = -0.748681661669355
+SCF not converged.
+SCF energy = -0.748681661668059 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.748681661668059 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  24%|██▍       | 242/992 [1:32:14<4:46:58, 22.96s/it]SCF not converged.
+SCF energy = -0.74861350941325
+SCF not converged.
+SCF energy = -0.748613509412329 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74861350941233 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  24%|██▍       | 243/992 [1:32:38<4:52:01, 23.39s/it]SCF not converged.
+SCF energy = -0.748547094289241
+SCF not converged.
+SCF energy = -0.748547094288319 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.748547094288319 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  25%|██▍       | 244/992 [1:33:02<4:54:44, 23.64s/it]SCF not converged.
+SCF energy = -0.748482369671691
+SCF not converged.
+SCF energy = -0.748482369670768 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.748482369670768 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  25%|██▍       | 245/992 [1:33:25<4:51:16, 23.40s/it]SCF not converged.
+SCF energy = -0.748419293120485
+SCF not converged.
+SCF energy = -0.74841929311956 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74841929311956 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  25%|██▍       | 246/992 [1:33:47<4:45:51, 22.99s/it]SCF not converged.
+SCF energy = -0.748357827337555
+SCF not converged.
+SCF energy = -0.748357827336629 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.748357827336629 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  25%|██▍       | 247/992 [1:34:10<4:44:07, 22.88s/it]SCF not converged.
+SCF energy = -0.748297940892172
+SCF not converged.
+SCF energy = -0.74829794089125 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74829794089125 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  25%|██▌       | 248/992 [1:34:33<4:43:48, 22.89s/it]SCF not converged.
+SCF energy = -0.748239608649085
+SCF not converged.
+SCF energy = -0.748239608648187 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.748239608648187 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  25%|██▌       | 249/992 [1:34:57<4:48:25, 23.29s/it]SCF not converged.
+SCF energy = -0.748182811695714
+SCF not converged.
+SCF energy = -0.748182811694781 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.748182811694781 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  25%|██▌       | 250/992 [1:35:21<4:50:08, 23.46s/it]SCF not converged.
+SCF energy = -0.748127535870605
+SCF not converged.
+SCF energy = -0.74812753586967 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74812753586967 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  25%|██▌       | 251/992 [1:35:43<4:45:51, 23.15s/it]SCF not converged.
+SCF energy = -0.748073766888279
+SCF not converged.
+SCF energy = -0.748073766887341 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.748073766887341 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  25%|██▌       | 252/992 [1:36:05<4:39:22, 22.65s/it]SCF not converged.
+SCF energy = -0.748021480903861
+SCF not converged.
+SCF energy = -0.748021480902919 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.748021480902919 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  26%|██▌       | 253/992 [1:36:30<4:49:54, 23.54s/it]SCF not converged.
+SCF energy = -0.747970636111127
+SCF not converged.
+SCF energy = -0.747970636110182 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747970636110182 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  26%|██▌       | 254/992 [1:36:58<5:06:53, 24.95s/it]SCF not converged.
+SCF energy = -0.747921177406466
+SCF not converged.
+SCF energy = -0.747921177405516 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747921177405516 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  26%|██▌       | 255/992 [1:37:25<5:14:11, 25.58s/it]SCF not converged.
+SCF energy = -0.74787305126903
+SCF not converged.
+SCF energy = -0.747873051268075 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747873051268075 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  26%|██▌       | 256/992 [1:37:52<5:16:41, 25.82s/it]SCF not converged.
+SCF energy = -0.747826210125001
+SCF not converged.
+SCF energy = -0.747826210124041 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747826210124041 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  26%|██▌       | 257/992 [1:38:20<5:23:45, 26.43s/it]SCF not converged.
+SCF energy = -0.747780612677091
+SCF not converged.
+SCF energy = -0.747780612676123 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747780612676123 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  26%|██▌       | 258/992 [1:38:47<5:26:39, 26.70s/it]SCF not converged.
+SCF energy = -0.747736231196204
+SCF not converged.
+SCF energy = -0.74773623119523 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74773623119523 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  26%|██▌       | 259/992 [1:39:14<5:27:35, 26.82s/it]SCF not converged.
+SCF energy = -0.747693043058017
+SCF not converged.
+SCF energy = -0.747693043057034 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747693043057034 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  26%|██▌       | 260/992 [1:39:40<5:23:25, 26.51s/it]SCF not converged.
+SCF energy = -0.747651013945528
+SCF not converged.
+SCF energy = -0.747651013944536 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747651013944536 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  26%|██▋       | 261/992 [1:40:06<5:21:55, 26.42s/it]SCF not converged.
+SCF energy = -0.747610098452032
+SCF not converged.
+SCF energy = -0.74761009845103 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74761009845103 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  26%|██▋       | 262/992 [1:40:32<5:20:42, 26.36s/it]SCF not converged.
+SCF energy = -0.747570251582143
+SCF not converged.
+SCF energy = -0.747570251581128 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747570251581128 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  27%|██▋       | 263/992 [1:40:58<5:19:01, 26.26s/it]SCF not converged.
+SCF energy = -0.747531435712288
+SCF not converged.
+SCF energy = -0.74753143571126 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747531435711259 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  27%|██▋       | 264/992 [1:41:25<5:20:22, 26.41s/it]SCF not converged.
+SCF energy = -0.747493620671877
+SCF not converged.
+SCF energy = -0.747493620670833 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747493620670833 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  27%|██▋       | 265/992 [1:41:52<5:19:54, 26.40s/it]SCF not converged.
+SCF energy = -0.747456781027368
+SCF not converged.
+SCF energy = -0.747456781026306 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747456781026306 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  27%|██▋       | 266/992 [1:42:18<5:19:40, 26.42s/it]SCF not converged.
+SCF energy = -0.74742089349678
+SCF not converged.
+SCF energy = -0.747420893495698 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747420893495698 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  27%|██▋       | 267/992 [1:42:45<5:20:11, 26.50s/it]SCF not converged.
+SCF energy = -0.74738593531525
+SCF not converged.
+SCF energy = -0.747385935314329 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747385935314328 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  27%|██▋       | 268/992 [1:43:11<5:20:52, 26.59s/it]SCF not converged.
+SCF energy = -0.747351883415185
+SCF not converged.
+SCF energy = -0.747351883414263 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747351883414263 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  27%|██▋       | 269/992 [1:43:38<5:20:47, 26.62s/it]SCF not converged.
+SCF energy = -0.747318714109659
+SCF not converged.
+SCF energy = -0.747318714108737 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747318714108737 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  27%|██▋       | 270/992 [1:44:05<5:22:44, 26.82s/it]SCF not converged.
+SCF energy = -0.747286403061236
+SCF not converged.
+SCF energy = -0.747286403060312 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747286403060312 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  27%|██▋       | 271/992 [1:44:32<5:19:56, 26.62s/it]SCF not converged.
+SCF energy = -0.747254925423125
+SCF not converged.
+SCF energy = -0.7472549254222 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.7472549254222 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  27%|██▋       | 272/992 [1:44:58<5:20:14, 26.69s/it]SCF not converged.
+SCF energy = -0.747224256118129
+SCF not converged.
+SCF energy = -0.747224256117204 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747224256117205 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  28%|██▊       | 273/992 [1:45:25<5:19:01, 26.62s/it]SCF not converged.
+SCF energy = -0.747194370258324
+SCF not converged.
+SCF energy = -0.747194370257403 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747194370257403 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  28%|██▊       | 274/992 [1:45:52<5:21:03, 26.83s/it]SCF not converged.
+SCF energy = -0.747165243718738
+SCF not converged.
+SCF energy = -0.747165243717837 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747165243717837 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  28%|██▊       | 275/992 [1:46:19<5:18:57, 26.69s/it]SCF not converged.
+SCF energy = -0.747136853862984
+SCF not converged.
+SCF energy = -0.747136853862054 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747136853862054 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  28%|██▊       | 276/992 [1:46:44<5:15:30, 26.44s/it]SCF not converged.
+SCF energy = -0.747109180376166
+SCF not converged.
+SCF energy = -0.747109180375235 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747109180375235 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  28%|██▊       | 277/992 [1:47:08<5:06:24, 25.71s/it]SCF not converged.
+SCF energy = -0.747082206094625
+SCF not converged.
+SCF energy = -0.747082206093692 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747082206093692 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  28%|██▊       | 278/992 [1:47:30<4:52:02, 24.54s/it]SCF not converged.
+SCF energy = -0.74705591764924
+SCF not converged.
+SCF energy = -0.747055917648305 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747055917648305 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  28%|██▊       | 279/992 [1:47:53<4:43:48, 23.88s/it]SCF not converged.
+SCF energy = -0.747030305722353
+SCF not converged.
+SCF energy = -0.747030305721416 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747030305721416 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  28%|██▊       | 280/992 [1:48:15<4:38:03, 23.43s/it]SCF not converged.
+SCF energy = -0.747005364849016
+SCF not converged.
+SCF energy = -0.747005364848076 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.747005364848076 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  28%|██▊       | 281/992 [1:48:37<4:32:55, 23.03s/it]SCF not converged.
+SCF energy = -0.746981093040758
+SCF not converged.
+SCF energy = -0.746981093039816 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746981093039816 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  28%|██▊       | 282/992 [1:49:00<4:31:27, 22.94s/it]SCF not converged.
+SCF energy = -0.746957491884312
+SCF not converged.
+SCF energy = -0.746957491883367 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746957491883367 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  29%|██▊       | 283/992 [1:49:22<4:29:13, 22.78s/it]SCF not converged.
+SCF energy = -0.746934567286723
+SCF not converged.
+SCF energy = -0.746934567285775 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746934567285775 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  29%|██▊       | 284/992 [1:49:45<4:29:14, 22.82s/it]SCF not converged.
+SCF energy = -0.746912328006436
+SCF not converged.
+SCF energy = -0.746912328005456 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746912328005456 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  29%|██▊       | 285/992 [1:50:09<4:31:00, 23.00s/it]SCF not converged.
+SCF energy = -0.746890774496857
+SCF not converged.
+SCF energy = -0.746890774495877 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746890774495878 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  29%|██▉       | 286/992 [1:50:31<4:29:56, 22.94s/it]SCF not converged.
+SCF energy = -0.746869878514767
+SCF not converged.
+SCF energy = -0.746869878513787 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746869878513787 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  29%|██▉       | 287/992 [1:50:55<4:31:29, 23.11s/it]SCF not converged.
+SCF energy = -0.746849584920023
+SCF not converged.
+SCF energy = -0.746849584919042 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746849584919042 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  29%|██▉       | 288/992 [1:51:18<4:30:05, 23.02s/it]SCF not converged.
+SCF energy = -0.74682984700105
+SCF not converged.
+SCF energy = -0.746829846999957 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746829846999957 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  29%|██▉       | 289/992 [1:51:40<4:27:02, 22.79s/it]SCF not converged.
+SCF energy = -0.74681063568681
+SCF not converged.
+SCF energy = -0.746810635685704 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746810635685704 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  29%|██▉       | 290/992 [1:52:03<4:26:44, 22.80s/it]SCF not converged.
+SCF energy = -0.746791942261802
+SCF not converged.
+SCF energy = -0.746791942260681 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746791942260682 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  29%|██▉       | 291/992 [1:52:25<4:23:59, 22.60s/it]SCF not converged.
+SCF energy = -0.746773777263076
+SCF not converged.
+SCF energy = -0.74677377726194 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74677377726194 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  29%|██▉       | 292/992 [1:52:48<4:24:03, 22.63s/it]SCF not converged.
+SCF energy = -0.746756129887357
+SCF not converged.
+SCF energy = -0.746756129886205 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746756129886205 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  30%|██▉       | 293/992 [1:53:11<4:26:03, 22.84s/it]SCF not converged.
+SCF energy = -0.746738962054687
+SCF not converged.
+SCF energy = -0.746738962053516 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746738962053516 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  30%|██▉       | 294/992 [1:53:33<4:23:54, 22.69s/it]SCF not converged.
+SCF energy = -0.746722235219294
+SCF not converged.
+SCF energy = -0.746722235218103 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746722235218103 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  30%|██▉       | 295/992 [1:53:56<4:24:20, 22.76s/it]SCF not converged.
+SCF energy = -0.74670592420321
+SCF not converged.
+SCF energy = -0.746705924201997 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746705924201997 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  30%|██▉       | 296/992 [1:54:19<4:25:17, 22.87s/it]SCF not converged.
+SCF energy = -0.746690015398416
+SCF not converged.
+SCF energy = -0.74669001539718 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74669001539718 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  30%|██▉       | 297/992 [1:54:43<4:26:17, 22.99s/it]SCF not converged.
+SCF energy = -0.746674501227136
+SCF not converged.
+SCF energy = -0.74667450122608 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74667450122608 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  30%|███       | 298/992 [1:55:08<4:33:53, 23.68s/it]SCF not converged.
+SCF energy = -0.746659376151938
+SCF not converged.
+SCF energy = -0.746659376150866 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746659376150866 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  30%|███       | 299/992 [1:55:34<4:41:14, 24.35s/it]SCF not converged.
+SCF energy = -0.746644634647923
+SCF not converged.
+SCF energy = -0.746644634646834 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746644634646834 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  30%|███       | 300/992 [1:56:00<4:47:42, 24.95s/it]SCF not converged.
+SCF energy = -0.746630270398118
+SCF not converged.
+SCF energy = -0.746630270397008 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746630270397007 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  30%|███       | 301/992 [1:56:22<4:36:59, 24.05s/it]SCF not converged.
+SCF energy = -0.746616276097594
+SCF not converged.
+SCF energy = -0.746616276096648 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746616276096648 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  30%|███       | 302/992 [1:56:45<4:32:15, 23.68s/it]SCF not converged.
+SCF energy = -0.746602643533618
+SCF not converged.
+SCF energy = -0.74660264353267 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74660264353267 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  31%|███       | 303/992 [1:57:08<4:28:27, 23.38s/it]SCF not converged.
+SCF energy = -0.746589363779775
+SCF not converged.
+SCF energy = -0.746589363778831 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746589363778831 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  31%|███       | 304/992 [1:57:31<4:27:20, 23.31s/it]SCF not converged.
+SCF energy = -0.746576427432802
+SCF not converged.
+SCF energy = -0.746576427431851 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746576427431851 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  31%|███       | 305/992 [1:57:54<4:26:37, 23.29s/it]SCF not converged.
+SCF energy = -0.746563824847274
+SCF not converged.
+SCF energy = -0.746563824846297 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746563824846297 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  31%|███       | 306/992 [1:58:18<4:27:13, 23.37s/it]SCF not converged.
+SCF energy = -0.746551546334263
+SCF not converged.
+SCF energy = -0.746551546333287 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746551546333287 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  31%|███       | 307/992 [1:58:40<4:23:05, 23.04s/it]SCF not converged.
+SCF energy = -0.74653958228871
+SCF not converged.
+SCF energy = -0.746539582287733 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746539582287733 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  31%|███       | 308/992 [1:59:03<4:22:10, 23.00s/it]SCF not converged.
+SCF energy = -0.746527923207658
+SCF not converged.
+SCF energy = -0.746527923206693 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746527923206693 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  31%|███       | 309/992 [1:59:26<4:22:45, 23.08s/it]SCF not converged.
+SCF energy = -0.746516559568542
+SCF not converged.
+SCF energy = -0.746516559567574 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746516559567574 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  31%|███▏      | 310/992 [1:59:48<4:18:42, 22.76s/it]SCF not converged.
+SCF energy = -0.74650548155156
+SCF not converged.
+SCF energy = -0.746505481550561 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746505481550561 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  31%|███▏      | 311/992 [2:00:11<4:19:40, 22.88s/it]SCF not converged.
+SCF energy = -0.746494678617247
+SCF not converged.
+SCF energy = -0.746494678616248 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746494678616248 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  31%|███▏      | 312/992 [2:00:34<4:19:34, 22.90s/it]SCF not converged.
+SCF energy = -0.7464841389824
+SCF not converged.
+SCF energy = -0.746484138981399 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746484138981399 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  32%|███▏      | 313/992 [2:00:57<4:20:21, 23.01s/it]SCF not converged.
+SCF energy = -0.74647384906949
+SCF not converged.
+SCF energy = -0.746473849068488 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746473849068488 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  32%|███▏      | 314/992 [2:01:20<4:17:43, 22.81s/it]SCF not converged.
+SCF energy = -0.746463793036176
+SCF not converged.
+SCF energy = -0.746463793035172 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746463793035172 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  32%|███▏      | 315/992 [2:01:43<4:20:30, 23.09s/it]SCF not converged.
+SCF energy = -0.746453952550866
+SCF not converged.
+SCF energy = -0.746453952549871 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746453952549871 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  32%|███▏      | 316/992 [2:02:06<4:19:11, 23.01s/it]SCF not converged.
+SCF energy = -0.746444307154218
+SCF not converged.
+SCF energy = -0.746444307153218 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746444307153218 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  32%|███▏      | 317/992 [2:02:29<4:19:38, 23.08s/it]SCF not converged.
+SCF energy = -0.746434836039522
+SCF not converged.
+SCF energy = -0.746434836038516 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746434836038516 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  32%|███▏      | 318/992 [2:02:52<4:19:03, 23.06s/it]SCF not converged.
+SCF energy = -0.746425523133028
+SCF not converged.
+SCF energy = -0.746425523132016 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746425523132016 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  32%|███▏      | 319/992 [2:03:15<4:15:27, 22.77s/it]SCF not converged.
+SCF energy = -0.746416368971433
+SCF not converged.
+SCF energy = -0.746416368970415 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746416368970415 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  32%|███▏      | 320/992 [2:03:37<4:12:59, 22.59s/it]SCF not converged.
+SCF energy = -0.746407411653121
+SCF not converged.
+SCF energy = -0.746407411652096 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746407411652096 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  32%|███▏      | 321/992 [2:04:00<4:13:44, 22.69s/it]SCF not converged.
+SCF energy = -0.746398742902525
+SCF not converged.
+SCF energy = -0.746398742901492 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746398742901492 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  32%|███▏      | 322/992 [2:04:23<4:14:39, 22.80s/it]SCF not converged.
+SCF energy = -0.746390452519805
+SCF not converged.
+SCF energy = -0.746390452518735 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746390452518735 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  33%|███▎      | 323/992 [2:04:48<4:21:07, 23.42s/it]SCF not converged.
+SCF energy = -0.746382504263558
+SCF not converged.
+SCF energy = -0.746382504262484 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746382504262484 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  33%|███▎      | 324/992 [2:05:12<4:23:50, 23.70s/it]SCF not converged.
+SCF energy = -0.746374774679739
+SCF not converged.
+SCF energy = -0.746374774678659 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746374774678659 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  33%|███▎      | 325/992 [2:05:36<4:25:36, 23.89s/it]SCF not converged.
+SCF energy = -0.746367226993373
+SCF not converged.
+SCF energy = -0.746367226992286 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746367226992286 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  33%|███▎      | 326/992 [2:05:58<4:18:42, 23.31s/it]SCF not converged.
+SCF energy = -0.746359915379586
+SCF not converged.
+SCF energy = -0.746359915378507 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746359915378507 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  33%|███▎      | 327/992 [2:06:22<4:19:38, 23.43s/it]SCF not converged.
+SCF energy = -0.746352966141633
+SCF not converged.
+SCF energy = -0.746352966140526 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746352966140526 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  33%|███▎      | 328/992 [2:06:44<4:16:06, 23.14s/it]SCF not converged.
+SCF energy = -0.746346366827472
+SCF not converged.
+SCF energy = -0.746346366826355 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746346366826355 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  33%|███▎      | 329/992 [2:07:06<4:11:32, 22.76s/it]SCF not converged.
+SCF energy = -0.746339989866252
+SCF not converged.
+SCF energy = -0.746339989865124 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746339989865124 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  33%|███▎      | 330/992 [2:07:29<4:10:43, 22.72s/it]SCF not converged.
+SCF energy = -0.74633373924964
+SCF not converged.
+SCF energy = -0.7463337392485 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.7463337392485 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  33%|███▎      | 331/992 [2:07:52<4:11:49, 22.86s/it]SCF not converged.
+SCF energy = -0.746327579401373
+SCF not converged.
+SCF energy = -0.746327579400219 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746327579400219 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  33%|███▎      | 332/992 [2:08:14<4:09:41, 22.70s/it]SCF not converged.
+SCF energy = -0.746321508534906
+SCF not converged.
+SCF energy = -0.746321508533743 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746321508533743 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  34%|███▎      | 333/992 [2:08:37<4:08:59, 22.67s/it]SCF not converged.
+SCF energy = -0.746315536342375
+SCF not converged.
+SCF energy = -0.746315536341195 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746315536341195 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  34%|███▎      | 334/992 [2:09:00<4:09:13, 22.72s/it]SCF not converged.
+SCF energy = -0.746309673712246
+SCF not converged.
+SCF energy = -0.746309673711047 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746309673711047 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  34%|███▍      | 335/992 [2:09:24<4:13:52, 23.18s/it]SCF not converged.
+SCF energy = -0.746303929271508
+SCF not converged.
+SCF energy = -0.746303929270289 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746303929270289 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  34%|███▍      | 336/992 [2:09:48<4:15:59, 23.41s/it]SCF not converged.
+SCF energy = -0.746298308725029
+SCF not converged.
+SCF energy = -0.746298308723788 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746298308723788 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  34%|███▍      | 337/992 [2:10:12<4:16:26, 23.49s/it]SCF not converged.
+SCF energy = -0.746292815126411
+SCF not converged.
+SCF energy = -0.746292815125146 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746292815125146 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  34%|███▍      | 338/992 [2:10:34<4:13:19, 23.24s/it]SCF not converged.
+SCF energy = -0.746287449368901
+SCF not converged.
+SCF energy = -0.746287449367615 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746287449367615 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  34%|███▍      | 339/992 [2:10:57<4:10:13, 22.99s/it]SCF not converged.
+SCF energy = -0.746282210664513
+SCF not converged.
+SCF energy = -0.746282210663215 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746282210663215 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  34%|███▍      | 340/992 [2:11:20<4:10:34, 23.06s/it]SCF not converged.
+SCF energy = -0.746277096955054
+SCF not converged.
+SCF energy = -0.746277096953707 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746277096953707 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  34%|███▍      | 341/992 [2:11:42<4:07:52, 22.85s/it]SCF not converged.
+SCF energy = -0.746272105254683
+SCF not converged.
+SCF energy = -0.746272105253303 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746272105253303 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  34%|███▍      | 342/992 [2:12:05<4:07:08, 22.81s/it]SCF not converged.
+SCF energy = -0.74626723193705
+SCF not converged.
+SCF energy = -0.746267231935636 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746267231935636 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  35%|███▍      | 343/992 [2:12:27<4:04:34, 22.61s/it]SCF not converged.
+SCF energy = -0.746262472976883
+SCF not converged.
+SCF energy = -0.74626247297543 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74626247297543 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  35%|███▍      | 344/992 [2:12:50<4:05:24, 22.72s/it]SCF not converged.
+SCF energy = -0.74625782414999
+SCF not converged.
+SCF energy = -0.746257824149072 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746257824149072 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  35%|███▍      | 345/992 [2:13:13<4:04:48, 22.70s/it]SCF not converged.
+SCF energy = -0.746253281192401
+SCF not converged.
+SCF energy = -0.746253281191482 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746253281191482 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  35%|███▍      | 346/992 [2:13:35<4:02:22, 22.51s/it]SCF not converged.
+SCF energy = -0.746248839902136
+SCF not converged.
+SCF energy = -0.746248839901219 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746248839901219 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  35%|███▍      | 347/992 [2:13:58<4:02:02, 22.52s/it]SCF not converged.
+SCF energy = -0.746244496183923
+SCF not converged.
+SCF energy = -0.746244496183005 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746244496183005 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  35%|███▌      | 348/992 [2:14:20<4:02:56, 22.63s/it]SCF not converged.
+SCF energy = -0.746240246019127
+SCF not converged.
+SCF energy = -0.746240246018209 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74624024601821 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  35%|███▌      | 349/992 [2:14:44<4:04:43, 22.84s/it]SCF not converged.
+SCF energy = -0.746236085360742
+SCF not converged.
+SCF energy = -0.746236085359825 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746236085359825 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  35%|███▌      | 350/992 [2:15:06<4:03:02, 22.71s/it]SCF not converged.
+SCF energy = -0.746232009959369
+SCF not converged.
+SCF energy = -0.746232009958451 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746232009958451 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  35%|███▌      | 351/992 [2:15:29<4:02:13, 22.67s/it]SCF not converged.
+SCF energy = -0.746228015120257
+SCF not converged.
+SCF energy = -0.746228015119339 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746228015119339 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  35%|███▌      | 352/992 [2:15:52<4:02:21, 22.72s/it]SCF not converged.
+SCF energy = -0.746224095510513
+SCF not converged.
+SCF energy = -0.746224095509595 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746224095509595 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  36%|███▌      | 353/992 [2:16:14<4:02:03, 22.73s/it]SCF not converged.
+SCF energy = -0.746220244789074
+SCF not converged.
+SCF energy = -0.746220244788156 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746220244788156 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  36%|███▌      | 354/992 [2:16:38<4:04:39, 23.01s/it]SCF not converged.
+SCF energy = -0.746216455381305
+SCF not converged.
+SCF energy = -0.746216455380386 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746216455380387 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  36%|███▌      | 355/992 [2:17:02<4:08:26, 23.40s/it]SCF not converged.
+SCF energy = -0.746212718142523
+SCF not converged.
+SCF energy = -0.746212718141605 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746212718141605 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  36%|███▌      | 356/992 [2:17:29<4:17:25, 24.29s/it]SCF not converged.
+SCF energy = -0.746209022003747
+SCF not converged.
+SCF energy = -0.746209022002828 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746209022002828 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  36%|███▌      | 357/992 [2:17:54<4:20:17, 24.60s/it]SCF not converged.
+SCF energy = -0.74620535369985
+SCF not converged.
+SCF energy = -0.746205353698931 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746205353698931 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  36%|███▌      | 358/992 [2:18:14<4:06:26, 23.32s/it]SCF not converged.
+SCF energy = -0.746201698113418
+SCF not converged.
+SCF energy = -0.746201698112498 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746201698112498 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  36%|███▌      | 359/992 [2:18:34<3:54:40, 22.24s/it]SCF not converged.
+SCF energy = -0.746198040970877
+SCF not converged.
+SCF energy = -0.746198040969957 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746198040969957 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  36%|███▋      | 360/992 [2:18:57<3:56:14, 22.43s/it]SCF not converged.
+SCF energy = -0.746194378454841
+SCF not converged.
+SCF energy = -0.746194378453921 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746194378453921 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  36%|███▋      | 361/992 [2:19:21<4:00:39, 22.88s/it]SCF not converged.
+SCF energy = -0.746190741551715
+SCF not converged.
+SCF energy = -0.746190741550795 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746190741550795 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  36%|███▋      | 362/992 [2:19:44<4:00:18, 22.89s/it]SCF not converged.
+SCF energy = -0.746187228229229
+SCF not converged.
+SCF energy = -0.746187228228309 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746187228228309 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  37%|███▋      | 363/992 [2:20:07<4:00:09, 22.91s/it]SCF not converged.
+SCF energy = -0.746183954704456
+SCF not converged.
+SCF energy = -0.746183954703534 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746183954703534 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  37%|███▋      | 364/992 [2:20:29<3:57:05, 22.65s/it]SCF not converged.
+SCF energy = -0.746180869399358
+SCF not converged.
+SCF energy = -0.746180869398437 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746180869398437 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  37%|███▋      | 365/992 [2:20:50<3:51:12, 22.13s/it]SCF not converged.
+SCF energy = -0.746177852188315
+SCF not converged.
+SCF energy = -0.746177852187376 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746177852187376 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  37%|███▋      | 366/992 [2:21:12<3:53:02, 22.34s/it]SCF not converged.
+SCF energy = -0.746174911793791
+SCF not converged.
+SCF energy = -0.746174911792853 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746174911792853 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  37%|███▋      | 367/992 [2:21:38<4:02:36, 23.29s/it]SCF not converged.
+SCF energy = -0.746172180100567
+SCF not converged.
+SCF energy = -0.746172180099631 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746172180099631 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  37%|███▋      | 368/992 [2:22:04<4:10:28, 24.08s/it]SCF not converged.
+SCF energy = -0.746169674375514
+SCF not converged.
+SCF energy = -0.746169674374579 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746169674374579 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  37%|███▋      | 369/992 [2:22:31<4:19:56, 25.03s/it]SCF not converged.
+SCF energy = -0.746167258377291
+SCF not converged.
+SCF energy = -0.746167258376342 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746167258376342 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  37%|███▋      | 370/992 [2:22:58<4:23:44, 25.44s/it]SCF not converged.
+SCF energy = -0.746164842097837
+SCF not converged.
+SCF energy = -0.746164842096899 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746164842096899 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  37%|███▋      | 371/992 [2:23:24<4:26:19, 25.73s/it]SCF not converged.
+SCF energy = -0.746162405619454
+SCF not converged.
+SCF energy = -0.746162405618518 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746162405618518 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  38%|███▊      | 372/992 [2:23:51<4:28:39, 26.00s/it]SCF not converged.
+SCF energy = -0.746159958614366
+SCF not converged.
+SCF energy = -0.746159958613431 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746159958613431 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  38%|███▊      | 373/992 [2:24:17<4:28:37, 26.04s/it]SCF not converged.
+SCF energy = -0.746157516675905
+SCF not converged.
+SCF energy = -0.746157516674969 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746157516674969 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  38%|███▊      | 374/992 [2:24:41<4:23:06, 25.54s/it]SCF not converged.
+SCF energy = -0.746155093452872
+SCF not converged.
+SCF energy = -0.746155093451945 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746155093451945 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  38%|███▊      | 375/992 [2:25:07<4:24:02, 25.68s/it]SCF not converged.
+SCF energy = -0.746152699134416
+SCF not converged.
+SCF energy = -0.746152699133487 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746152699133487 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  38%|███▊      | 376/992 [2:25:32<4:20:56, 25.42s/it]SCF not converged.
+SCF energy = -0.746150340799921
+SCF not converged.
+SCF energy = -0.746150340798991 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746150340798991 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  38%|███▊      | 377/992 [2:25:58<4:22:35, 25.62s/it]SCF not converged.
+SCF energy = -0.746148023113734
+SCF not converged.
+SCF energy = -0.746148023112804 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746148023112804 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  38%|███▊      | 378/992 [2:26:23<4:20:13, 25.43s/it]SCF not converged.
+SCF energy = -0.746145748947123
+SCF not converged.
+SCF energy = -0.746145748946191 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746145748946191 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  38%|███▊      | 379/992 [2:26:49<4:20:40, 25.51s/it]SCF not converged.
+SCF energy = -0.746143519854178
+SCF not converged.
+SCF energy = -0.746143519853244 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746143519853244 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  38%|███▊      | 380/992 [2:27:11<4:10:45, 24.58s/it]SCF not converged.
+SCF energy = -0.746141336419092
+SCF not converged.
+SCF energy = -0.746141336418158 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746141336418158 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  38%|███▊      | 381/992 [2:27:36<4:12:21, 24.78s/it]SCF not converged.
+SCF energy = -0.746139198507578
+SCF not converged.
+SCF energy = -0.746139198506648 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746139198506647 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  39%|███▊      | 382/992 [2:27:59<4:03:54, 23.99s/it]SCF not converged.
+SCF energy = -0.746137105450996
+SCF not converged.
+SCF energy = -0.746137105450082 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746137105450082 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  39%|███▊      | 383/992 [2:28:24<4:07:14, 24.36s/it]SCF not converged.
+SCF energy = -0.746135056184813
+SCF not converged.
+SCF energy = -0.746135056183872 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746135056183872 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  39%|███▊      | 384/992 [2:28:50<4:12:02, 24.87s/it]SCF not converged.
+SCF energy = -0.746133049356152
+SCF not converged.
+SCF energy = -0.746133049355209 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746133049355209 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  39%|███▉      | 385/992 [2:29:17<4:19:31, 25.65s/it]SCF not converged.
+SCF energy = -0.746131083411329
+SCF not converged.
+SCF energy = -0.746131083410384 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746131083410384 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  39%|███▉      | 386/992 [2:29:44<4:22:16, 25.97s/it]SCF not converged.
+SCF energy = -0.746129157864931
+SCF not converged.
+SCF energy = -0.746129157863983 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746129157863983 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  39%|███▉      | 387/992 [2:30:10<4:23:10, 26.10s/it]SCF not converged.
+SCF energy = -0.7461272685594
+SCF not converged.
+SCF energy = -0.746127268558449 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746127268558449 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  39%|███▉      | 388/992 [2:30:38<4:26:45, 26.50s/it]SCF not converged.
+SCF energy = -0.746125415563682
+SCF not converged.
+SCF energy = -0.746125415562729 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746125415562729 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  39%|███▉      | 389/992 [2:31:04<4:25:00, 26.37s/it]SCF not converged.
+SCF energy = -0.746123595902923
+SCF not converged.
+SCF energy = -0.746123595901966 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746123595901966 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  39%|███▉      | 390/992 [2:31:30<4:23:34, 26.27s/it]SCF not converged.
+SCF energy = -0.746121808518485
+SCF not converged.
+SCF energy = -0.746121808517524 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746121808517524 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  39%|███▉      | 391/992 [2:31:58<4:27:52, 26.74s/it]SCF not converged.
+SCF energy = -0.74612005178593
+SCF not converged.
+SCF energy = -0.746120051784965 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746120051784965 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  40%|███▉      | 392/992 [2:32:25<4:28:45, 26.88s/it]SCF not converged.
+SCF energy = -0.746118324127576
+SCF not converged.
+SCF energy = -0.746118324126606 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746118324126606 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  40%|███▉      | 393/992 [2:32:52<4:30:01, 27.05s/it]SCF not converged.
+SCF energy = -0.74611662397969
+SCF not converged.
+SCF energy = -0.746116623978715 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746116623978715 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  40%|███▉      | 394/992 [2:33:19<4:29:15, 27.02s/it]SCF not converged.
+SCF energy = -0.746114949741258
+SCF not converged.
+SCF energy = -0.746114949740277 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746114949740277 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  40%|███▉      | 395/992 [2:33:47<4:31:01, 27.24s/it]SCF not converged.
+SCF energy = -0.74611329970839
+SCF not converged.
+SCF energy = -0.746113299707403 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746113299707404 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  40%|███▉      | 396/992 [2:34:14<4:30:05, 27.19s/it]SCF not converged.
+SCF energy = -0.746111671998552
+SCF not converged.
+SCF energy = -0.746111671997558 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746111671997558 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  40%|████      | 397/992 [2:34:41<4:27:36, 26.99s/it]SCF not converged.
+SCF energy = -0.746110064465567
+SCF not converged.
+SCF energy = -0.746110064464566 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746110064464566 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  40%|████      | 398/992 [2:35:07<4:26:17, 26.90s/it]SCF not converged.
+SCF energy = -0.746108474599386
+SCF not converged.
+SCF energy = -0.746108474598377 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746108474598377 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  40%|████      | 399/992 [2:35:34<4:25:23, 26.85s/it]SCF not converged.
+SCF energy = -0.746106899394045
+SCF not converged.
+SCF energy = -0.746106899393026 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746106899393026 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  40%|████      | 400/992 [2:36:02<4:27:19, 27.09s/it]SCF not converged.
+SCF energy = -0.746105335154358
+SCF not converged.
+SCF energy = -0.74610533515333 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74610533515333 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  40%|████      | 401/992 [2:36:28<4:23:59, 26.80s/it]SCF not converged.
+SCF energy = -0.746103777198798
+SCF not converged.
+SCF energy = -0.746103777197759 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746103777197759 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  41%|████      | 402/992 [2:36:55<4:23:59, 26.85s/it]SCF not converged.
+SCF energy = -0.746102219410172
+SCF not converged.
+SCF energy = -0.746102219409121 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746102219409121 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  41%|████      | 403/992 [2:37:25<4:33:09, 27.83s/it]SCF not converged.
+SCF energy = -0.746100653618818
+SCF not converged.
+SCF energy = -0.746100653617754 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746100653617754 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  41%|████      | 404/992 [2:37:55<4:40:01, 28.57s/it]SCF not converged.
+SCF energy = -0.74609906900132
+SCF not converged.
+SCF energy = -0.746099069000241 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746099069000241 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  41%|████      | 405/992 [2:38:25<4:44:03, 29.04s/it]SCF not converged.
+SCF energy = -0.746097452498656
+SCF not converged.
+SCF energy = -0.746097452497739 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746097452497739 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  41%|████      | 406/992 [2:38:56<4:49:24, 29.63s/it]SCF not converged.
+SCF energy = -0.746095794108473
+SCF not converged.
+SCF energy = -0.746095794107555 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746095794107555 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  41%|████      | 407/992 [2:39:26<4:49:16, 29.67s/it]SCF not converged.
+SCF energy = -0.746094107903098
+SCF not converged.
+SCF energy = -0.746094107902181 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746094107902181 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  41%|████      | 408/992 [2:39:57<4:51:18, 29.93s/it]SCF not converged.
+SCF energy = -0.746092476086688
+SCF not converged.
+SCF energy = -0.746092476085771 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746092476085771 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  41%|████      | 409/992 [2:40:27<4:53:08, 30.17s/it]SCF not converged.
+SCF energy = -0.746091013837116
+SCF not converged.
+SCF energy = -0.746091013836199 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746091013836199 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  41%|████▏     | 410/992 [2:40:59<4:56:55, 30.61s/it]SCF not converged.
+SCF energy = -0.746089654347665
+SCF not converged.
+SCF energy = -0.746089654346747 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746089654346747 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  41%|████▏     | 411/992 [2:41:30<4:57:44, 30.75s/it]SCF not converged.
+SCF energy = -0.74608831456913
+SCF not converged.
+SCF energy = -0.746088314568167 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746088314568167 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  42%|████▏     | 412/992 [2:42:00<4:54:35, 30.48s/it]SCF not converged.
+SCF energy = -0.746087078307544
+SCF not converged.
+SCF energy = -0.746087078306587 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746087078306587 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  42%|████▏     | 413/992 [2:42:31<4:54:23, 30.51s/it]SCF not converged.
+SCF energy = -0.746086008832178
+SCF not converged.
+SCF energy = -0.746086008831225 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746086008831225 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  42%|████▏     | 414/992 [2:43:01<4:53:59, 30.52s/it]SCF not converged.
+SCF energy = -0.746084980657905
+SCF not converged.
+SCF energy = -0.746084980656956 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746084980656956 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  42%|████▏     | 415/992 [2:43:31<4:52:59, 30.47s/it]SCF not converged.
+SCF energy = -0.746083912893697
+SCF not converged.
+SCF energy = -0.746083912892752 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746083912892752 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  42%|████▏     | 416/992 [2:44:02<4:53:59, 30.62s/it]SCF not converged.
+SCF energy = -0.74608279778054
+SCF not converged.
+SCF energy = -0.746082797779598 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746082797779598 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  42%|████▏     | 417/992 [2:44:33<4:51:56, 30.46s/it]SCF not converged.
+SCF energy = -0.746081649896262
+SCF not converged.
+SCF energy = -0.746081649895344 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746081649895344 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  42%|████▏     | 418/992 [2:45:03<4:51:48, 30.50s/it]SCF not converged.
+SCF energy = -0.746080484577935
+SCF not converged.
+SCF energy = -0.746080484577017 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746080484577017 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  42%|████▏     | 419/992 [2:45:33<4:50:08, 30.38s/it]SCF not converged.
+SCF energy = -0.746079313436696
+SCF not converged.
+SCF energy = -0.746079313435773 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746079313435773 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  42%|████▏     | 420/992 [2:46:03<4:48:50, 30.30s/it]SCF not converged.
+SCF energy = -0.746078144570009
+SCF not converged.
+SCF energy = -0.746078144569086 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746078144569086 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  42%|████▏     | 421/992 [2:46:34<4:48:51, 30.35s/it]SCF not converged.
+SCF energy = -0.746076983522925
+SCF not converged.
+SCF energy = -0.746076983522004 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746076983522004 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  43%|████▎     | 422/992 [2:47:04<4:47:52, 30.30s/it]SCF not converged.
+SCF energy = -0.746075834107239
+SCF not converged.
+SCF energy = -0.746075834106318 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746075834106318 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  43%|████▎     | 423/992 [2:47:34<4:47:16, 30.29s/it]SCF not converged.
+SCF energy = -0.746074698975372
+SCF not converged.
+SCF energy = -0.746074698974451 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746074698974451 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  43%|████▎     | 424/992 [2:48:05<4:48:15, 30.45s/it]SCF not converged.
+SCF energy = -0.746073580001832
+SCF not converged.
+SCF energy = -0.746073580000913 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746073580000913 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  43%|████▎     | 425/992 [2:48:39<4:57:49, 31.52s/it]SCF not converged.
+SCF energy = -0.746072478533863
+SCF not converged.
+SCF energy = -0.746072478532945 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746072478532945 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  43%|████▎     | 426/992 [2:55:26<22:38:37, 144.02s/it]SCF not converged.
+SCF energy = -0.746071395556205
+SCF not converged.
+SCF energy = -0.746071395555287 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746071395555287 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  43%|████▎     | 427/992 [3:06:40<47:34:32, 303.14s/it]SCF not converged.
+SCF energy = -0.746070331799644
+SCF not converged.
+SCF energy = -0.746070331798726 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746070331798726 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  43%|████▎     | 428/992 [3:15:58<59:27:17, 379.50s/it]SCF not converged.
+SCF energy = -0.746069287812348
+SCF not converged.
+SCF energy = -0.74606928781143 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74606928781143 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  43%|████▎     | 429/992 [3:26:10<70:17:03, 449.42s/it]SCF not converged.
+SCF energy = -0.746068264006338
+SCF not converged.
+SCF energy = -0.74606826400542 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.74606826400542 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  43%|████▎     | 430/992 [3:36:49<79:00:17, 506.08s/it]SCF not converged.
+SCF energy = -0.74606726068728
+SCF not converged.
+SCF energy = -0.746067260686361 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746067260686361 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  43%|████▎     | 431/992 [3:46:52<83:25:33, 535.35s/it]SCF not converged.
+SCF energy = -0.74606627807312
+SCF not converged.
+SCF energy = -0.746066278072201 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.746066278072201 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  44%|████▎     | 432/992 [3:57:13<87:15:00, 560.89s/it]SCF not converged.
+SCF energy = -0.746065316305418
+SCF not converged.
+SCF energy = -0.7460653163045 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+SCF not converged.
+SCF energy = -0.7460653163045 after 0 cycles  <S^2> = 0.75  2S+1 = 2
+Processing H2 Curve:  44%|████▎     | 433/992 [4:07:49<90:36:49, 583.56s/it]SCF not converged.
+SCF energy = -0.746064375456093
+SCF not converged.
+SCF energy = -0.746064375455174 after 0 cycles  <S^2> = 0.75  2S+1 = 2
