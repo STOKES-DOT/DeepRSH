@@ -108,7 +108,3 @@ If you use this code, please cite:
 
 MIT License
 
-## References
-
-- grad_dft: https://github.com/diffqc/grad_dft
-- DM21: Kirkpatrick et al., Nature (2023)
