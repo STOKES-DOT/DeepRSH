@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# JAX
+*.jax
+*_checkpoint*
+
+# Data
+*.hdf5
+*.h5
+*.pkl
+dataste_mol/
+dataset_diatoms/*.csv
+
+# Logs
+*.log
+runs/
+plots/
+ckpts/
+nohup.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
